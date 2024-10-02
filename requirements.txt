@@ -1,0 +1,8 @@
+meeteval
+numpy
+pandas
+regex
+more-itertools
+simplejson
+platformdirs
+tqdm

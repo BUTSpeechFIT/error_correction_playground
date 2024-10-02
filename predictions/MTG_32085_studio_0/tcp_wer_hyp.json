@@ -1,0 +1,2536 @@
+[
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 13.0600000000000004973799150320701301097869873046875,
+    "end_time": 13.4199999999999999289457264239899814128875732421875,
+    "words": "what",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 14.339999999999999857891452847979962825775146484375,
+    "end_time": 14.7400000000000002131628207280300557613372802734375,
+    "words": "what",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 15.4399999999999995026200849679298698902130126953125,
+    "end_time": 16.5799999999999982946974341757595539093017578125,
+    "words": "what is that",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 21.0799999999999982946974341757595539093017578125,
+    "end_time": 21.8599999999999994315658113919198513031005859375,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 27.9200000000000017053025658242404460906982421875,
+    "end_time": 28.719999999999998863131622783839702606201171875,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 29.39999999999999857891452847979962825775146484375,
+    "end_time": 29.96000000000000085265128291212022304534912109375,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 31.53999999999999914734871708787977695465087890625,
+    "end_time": 32.2999999999999971578290569595992565155029296875,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 37.43999999999999772626324556767940521240234375,
+    "end_time": 37.97999999999999687361196265555918216705322265625,
+    "words": "ok",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 38.840000000000003410605131648480892181396484375,
+    "end_time": 39.60000000000000142108547152020037174224853515625,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 42.7000000000000028421709430404007434844970703125,
+    "end_time": 43.4200000000000017053025658242404460906982421875,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 48.47999999999999687361196265555918216705322265625,
+    "end_time": 49.659999999999996589394868351519107818603515625,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 50.3599999999999994315658113919198513031005859375,
+    "end_time": 51.8599999999999994315658113919198513031005859375,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 55.7999999999999971578290569595992565155029296875,
+    "end_time": 57.11999999999999744204615126363933086395263671875,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 65.2999999999999971578290569595992565155029296875,
+    "end_time": 66.0400000000000062527760746888816356658935546875,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 69.6200000000000045474735088646411895751953125,
+    "end_time": 70.7600000000000051159076974727213382720947265625,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 73.56000000000000227373675443232059478759765625,
+    "end_time": 74.1200000000000045474735088646411895751953125,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 74.340000000000003410605131648480892181396484375,
+    "end_time": 75.7600000000000051159076974727213382720947265625,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 76.5199999999999960209606797434389591217041015625,
+    "end_time": 77.900000000000005684341886080801486968994140625,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 82.3599999999999994315658113919198513031005859375,
+    "end_time": 84.5,
+    "words": "yes this is a good idea",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 84.5400000000000062527760746888816356658935546875,
+    "end_time": 85.81999999999999317878973670303821563720703125,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 90,
+    "end_time": 90.18000000000000682121026329696178436279296875,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 92.1400000000000005684341886080801486968994140625,
+    "end_time": 93.68000000000000682121026329696178436279296875,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 98.4200000000000017053025658242404460906982421875,
+    "end_time": 102.5,
+    "words": "no but he was good he was in the middle of the dream show he got a lot of attention",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 106.1400000000000005684341886080801486968994140625,
+    "end_time": 108.7000000000000028421709430404007434844970703125,
+    "words": "i did it last year i did it last year",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 113.2600000000000051159076974727213382720947265625,
+    "end_time": 114.6200000000000045474735088646411895751953125,
+    "words": "yes i think",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 117.5799999999999982946974341757595539093017578125,
+    "end_time": 118.06000000000000227373675443232059478759765625,
+    "words": "i did",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 123.5199999999999960209606797434389591217041015625,
+    "end_time": 125.6200000000000045474735088646411895751953125,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 126.56000000000000227373675443232059478759765625,
+    "end_time": 126.8599999999999994315658113919198513031005859375,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 127.56000000000000227373675443232059478759765625,
+    "end_time": 128.8799999999999954525264911353588104248046875,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 129.840000000000003410605131648480892181396484375,
+    "end_time": 131.099999999999994315658113919198513031005859375,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 131.3799999999999954525264911353588104248046875,
+    "end_time": 133.280000000000001136868377216160297393798828125,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 135.8799999999999954525264911353588104248046875,
+    "end_time": 136.5,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 138.6399999999999863575794734060764312744140625,
+    "end_time": 140.759999999999990905052982270717620849609375,
+    "words": "yeah that is a good idea",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 143.039999999999992041921359486877918243408203125,
+    "end_time": 146.3799999999999954525264911353588104248046875,
+    "words": "yeah that is a good idea",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 151.400000000000005684341886080801486968994140625,
+    "end_time": 154.759999999999990905052982270717620849609375,
+    "words": "we can we can make we can make like travel like",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 154.80000000000001136868377216160297393798828125,
+    "end_time": 159.919999999999987494447850622236728668212890625,
+    "words": "travel little samples of snacks and hand them out like things that you can make at internet stores",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 160.840000000000003410605131648480892181396484375,
+    "end_time": 161.460000000000007958078640513122081756591796875,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 161.580000000000012505552149377763271331787109375,
+    "end_time": 162.80000000000001136868377216160297393798828125,
+    "words": "it is a good idea",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 164.219999999999998863131622783839702606201171875,
+    "end_time": 166.80000000000001136868377216160297393798828125,
+    "words": "yeah that is a good idea",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 167.1200000000000045474735088646411895751953125,
+    "end_time": 169.5,
+    "words": "we can get colorful that is great",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 169.81999999999999317878973670303821563720703125,
+    "end_time": 173.1399999999999863575794734060764312744140625,
+    "words": "trail mix trail",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 173.479999999999989768184605054557323455810546875,
+    "end_time": 174.69999999999998863131622783839702606201171875,
+    "words": "trail",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 175.1200000000000045474735088646411895751953125,
+    "end_time": 179.780000000000001136868377216160297393798828125,
+    "words": "oh that is a good idea that is a good idea",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 182.159999999999996589394868351519107818603515625,
+    "end_time": 186.56000000000000227373675443232059478759765625,
+    "words": "no it is a give you a pun it does not have to be something that we mark it we we just have to say it",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 187.8600000000000136424205265939235687255859375,
+    "end_time": 188.400000000000005684341886080801486968994140625,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 194.3799999999999954525264911353588104248046875,
+    "end_time": 195.81999999999999317878973670303821563720703125,
+    "words": "we the babies",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 196.1399999999999863575794734060764312744140625,
+    "end_time": 199.080000000000012505552149377763271331787109375,
+    "words": "oh",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 200.919999999999987494447850622236728668212890625,
+    "end_time": 202.460000000000007958078640513122081756591796875,
+    "words": "we are the baby",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 202.759999999999990905052982270717620849609375,
+    "end_time": 204.740000000000009094947017729282379150390625,
+    "words": "we are the baby",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 206.43999999999999772626324556767940521240234375,
+    "end_time": 208.039999999999992041921359486877918243408203125,
+    "words": "we are the baby",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 211.039999999999992041921359486877918243408203125,
+    "end_time": 212.30000000000001136868377216160297393798828125,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 225.659999999999996589394868351519107818603515625,
+    "end_time": 226.31999999999999317878973670303821563720703125,
+    "words": "yes",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 247.5,
+    "end_time": 249.93999999999999772626324556767940521240234375,
+    "words": "it might be controversial a little bit i think",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 252.719999999999998863131622783839702606201171875,
+    "end_time": 254.340000000000003410605131648480892181396484375,
+    "words": "oh ok",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 255.8600000000000136424205265939235687255859375,
+    "end_time": 256.8799999999999954525264911353588104248046875,
+    "words": "oh that is awesome",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 257.279999999999972715158946812152862548828125,
+    "end_time": 258.06000000000000227373675443232059478759765625,
+    "words": "oh",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 259.81999999999999317878973670303821563720703125,
+    "end_time": 261.04000000000002046363078989088535308837890625,
+    "words": "maybe like a pet",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 261.06000000000000227373675443232059478759765625,
+    "end_time": 261.6200000000000045474735088646411895751953125,
+    "words": "a pet",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 272.80000000000001136868377216160297393798828125,
+    "end_time": 275.01999999999998181010596454143524169921875,
+    "words": "that is my favorite part",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 277.81999999999999317878973670303821563720703125,
+    "end_time": 281.07999999999998408384271897375583648681640625,
+    "words": "that is my favorite part",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 285.42000000000001591615728102624416351318359375,
+    "end_time": 286.220000000000027284841053187847137451171875,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 286.95999999999997953636921010911464691162109375,
+    "end_time": 288.93999999999999772626324556767940521240234375,
+    "words": "that is right",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 291.8799999999999954525264911353588104248046875,
+    "end_time": 294.259999999999990905052982270717620849609375,
+    "words": "yeah yeah yeah of course",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 304.779999999999972715158946812152862548828125,
+    "end_time": 305.19999999999998863131622783839702606201171875,
+    "words": "i think",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 305.54000000000002046363078989088535308837890625,
+    "end_time": 307.259999999999990905052982270717620849609375,
+    "words": "i think that is a good idea",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 316.95999999999997953636921010911464691162109375,
+    "end_time": 317.51999999999998181010596454143524169921875,
+    "words": "yeah",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 320.92000000000001591615728102624416351318359375,
+    "end_time": 322.30000000000001136868377216160297393798828125,
+    "words": "ok so choose it",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 322.3600000000000136424205265939235687255859375,
+    "end_time": 323.19999999999998863131622783839702606201171875,
+    "words": "either you",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 326.51999999999998181010596454143524169921875,
+    "end_time": 328.98000000000001818989403545856475830078125,
+    "words": "you will you will have to work hard",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 337.240000000000009094947017729282379150390625,
+    "end_time": 338.92000000000001591615728102624416351318359375,
+    "words": "exactly",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 345.92000000000001591615728102624416351318359375,
+    "end_time": 347.31999999999999317878973670303821563720703125,
+    "words": "and we can come up with",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 347.33999999999997498889570124447345733642578125,
+    "end_time": 352.57999999999998408384271897375583648681640625,
+    "words": "also if you think of newer things like maybe some funny things will also be good for this trade show",
+    "speaker": "Sarah"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 12.300000000000000710542735760100185871124267578125,
+    "end_time": 14.1199999999999992184029906638897955417633056640625,
+    "words": "yeah i think it is",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 15.3599999999999994315658113919198513031005859375,
+    "end_time": 17.10000000000000142108547152020037174224853515625,
+    "words": "it is a good idea",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 57.67999999999999971578290569595992565155029296875,
+    "end_time": 60,
+    "words": "we were talking about the sticks the funniest thing",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 60,
+    "end_time": 60.67999999999999971578290569595992565155029296875,
+    "words": "when we were seeing",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 61.11999999999999744204615126363933086395263671875,
+    "end_time": 65.099999999999994315658113919198513031005859375,
+    "words": "there is i forget who it was there was one with the red tip red tip cane",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 66.2399999999999948840923025272786617279052734375,
+    "end_time": 67.7000000000000028421709430404007434844970703125,
+    "words": "and the dark sunglasses",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 70.599999999999994315658113919198513031005859375,
+    "end_time": 70.900000000000005684341886080801486968994140625,
+    "words": "but",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 71.159999999999996589394868351519107818603515625,
+    "end_time": 74.7999999999999971578290569595992565155029296875,
+    "words": "how how much you enjoy the like like flying mountains",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 122.1400000000000005684341886080801486968994140625,
+    "end_time": 123.7600000000000051159076974727213382720947265625,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 124.400000000000005684341886080801486968994140625,
+    "end_time": 124.840000000000003410605131648480892181396484375,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 125.2399999999999948840923025272786617279052734375,
+    "end_time": 125.5400000000000062527760746888816356658935546875,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 128.099999999999994315658113919198513031005859375,
+    "end_time": 128.8799999999999954525264911353588104248046875,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 160.68000000000000682121026329696178436279296875,
+    "end_time": 165,
+    "words": "there is something it is got there is something there is something with our company logo on it so they know who it is from",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 228.659999999999996589394868351519107818603515625,
+    "end_time": 229.240000000000009094947017729282379150390625,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 229.3600000000000136424205265939235687255859375,
+    "end_time": 229.69999999999998863131622783839702606201171875,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 233.56000000000000227373675443232059478759765625,
+    "end_time": 237.539999999999992041921359486877918243408203125,
+    "words": "i do not know if the the the baby is interesting but",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 238.479999999999989768184605054557323455810546875,
+    "end_time": 240,
+    "words": "he might get some repercussions",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 240,
+    "end_time": 241.039999999999992041921359486877918243408203125,
+    "words": "like that like so",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 282.6200000000000045474735088646411895751953125,
+    "end_time": 283.779999999999972715158946812152862548828125,
+    "words": "oh that is really",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 284.3999999999999772626324556767940521240234375,
+    "end_time": 286.19999999999998863131622783839702606201171875,
+    "words": "that is really good idea",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 335.33999999999997498889570124447345733642578125,
+    "end_time": 337.6000000000000227373675443232059478759765625,
+    "words": "the parcel is not on vocabulary",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 6.45999999999999996447286321199499070644378662109375,
+    "end_time": 13.2799999999999993605115378159098327159881591796875,
+    "words": "with the parks and recreation trade show coming up you guys remember what happened last year it was",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 13.4199999999999999289457264239899814128875732421875,
+    "end_time": 14.6199999999999992184029906638897955417633056640625,
+    "words": "it was yeah",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 14.6400000000000005684341886080801486968994140625,
+    "end_time": 19.739999999999998436805981327779591083526611328125,
+    "words": "it was it was a lot of we had a lot of fun there we got a lot of business done",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 19.82000000000000028421709430404007434844970703125,
+    "end_time": 23.280000000000001136868377216160297393798828125,
+    "words": "but we also had had a great time",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 23.32000000000000028421709430404007434844970703125,
+    "end_time": 25.280000000000001136868377216160297393798828125,
+    "words": "what",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 31.280000000000001136868377216160297393798828125,
+    "end_time": 32.2000000000000028421709430404007434844970703125,
+    "words": "well",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 32.24000000000000198951966012828052043914794921875,
+    "end_time": 37.2999999999999971578290569595992565155029296875,
+    "words": "last last time you you remember we all were at the booth with sticks",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 37.39999999999999857891452847979962825775146484375,
+    "end_time": 39.67999999999999971578290569595992565155029296875,
+    "words": "and we were walking around with sticks",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 39.7000000000000028421709430404007434844970703125,
+    "end_time": 42.719999999999998863131622783839702606201171875,
+    "words": "as if we were you know all had four legs",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 43.03999999999999914734871708787977695465087890625,
+    "end_time": 45.60000000000000142108547152020037174224853515625,
+    "words": "right so that was that was fun",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 50.719999999999998863131622783839702606201171875,
+    "end_time": 51.2999999999999971578290569595992565155029296875,
+    "words": "but do not",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 52.1400000000000005684341886080801486968994140625,
+    "end_time": 53.7999999999999971578290569595992565155029296875,
+    "words": "do not forget though",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 64.8799999999999954525264911353588104248046875,
+    "end_time": 69.280000000000001136868377216160297393798828125,
+    "words": "oh",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 69.3599999999999994315658113919198513031005859375,
+    "end_time": 70.099999999999994315658113919198513031005859375,
+    "words": "that was great",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 71.159999999999996589394868351519107818603515625,
+    "end_time": 72.2600000000000051159076974727213382720947265625,
+    "words": "oh",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 75.1200000000000045474735088646411895751953125,
+    "end_time": 82.6400000000000005684341886080801486968994140625,
+    "words": "right so maybe we will have somebody dressed up as as bigfoot this year",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 82.81999999999999317878973670303821563720703125,
+    "end_time": 83.4800000000000039790393202565610408782958984375,
+    "words": "we have",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 84.18000000000000682121026329696178436279296875,
+    "end_time": 88.9800000000000039790393202565610408782958984375,
+    "words": "bigfoot but they but have big sticks also so they know that they are the best",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 89.219999999999998863131622783839702606201171875,
+    "end_time": 90,
+    "words": "yeah",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 90,
+    "end_time": 91.219999999999998863131622783839702606201171875,
+    "words": "ok",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 93.0199999999999960209606797434389591217041015625,
+    "end_time": 99.2000000000000028421709430404007434844970703125,
+    "words": "no it will be we will have the same booth cause we afterwards we signed up for the same booth spaces last time",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 100.8799999999999954525264911353588104248046875,
+    "end_time": 101.400000000000005684341886080801486968994140625,
+    "words": "yeah",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 102.81999999999999317878973670303821563720703125,
+    "end_time": 104.8599999999999994315658113919198513031005859375,
+    "words": "that is that is why that is why we are",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 106.2600000000000051159076974727213382720947265625,
+    "end_time": 107.219999999999998863131622783839702606201171875,
+    "words": "ok",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 108.8799999999999954525264911353588104248046875,
+    "end_time": 109.68000000000000682121026329696178436279296875,
+    "words": "ok",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 111.1200000000000045474735088646411895751953125,
+    "end_time": 113.5799999999999982946974341757595539093017578125,
+    "words": "linda let us give that to linda",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 113.7999999999999971578290569595992565155029296875,
+    "end_time": 117.780000000000001136868377216160297393798828125,
+    "words": "we will let linda do that she she would appreciate that",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 121.4800000000000039790393202565610408782958984375,
+    "end_time": 124.0400000000000062527760746888816356658935546875,
+    "words": "ok now",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 124.1400000000000005684341886080801486968994140625,
+    "end_time": 130.979999999999989768184605054557323455810546875,
+    "words": "now remember half the half the fun of this show is the events that they have after the show",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 131.080000000000012505552149377763271331787109375,
+    "end_time": 136.6200000000000045474735088646411895751953125,
+    "words": "and at at the the bars around town so there is one",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 140.69999999999998863131622783839702606201171875,
+    "end_time": 144.419999999999987494447850622236728668212890625,
+    "words": "we could sponsor drinks at at a bar rounded drinks let us say",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 145.479999999999989768184605054557323455810546875,
+    "end_time": 147.56000000000000227373675443232059478759765625,
+    "words": "and everybody you know",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 149.759999999999990905052982270717620849609375,
+    "end_time": 150,
+    "words": "and",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 151.719999999999998863131622783839702606201171875,
+    "end_time": 152.31999999999999317878973670303821563720703125,
+    "words": "we can",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 152.5,
+    "end_time": 153.340000000000003410605131648480892181396484375,
+    "words": "ok",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 153.539999999999992041921359486877918243408203125,
+    "end_time": 155.159999999999996589394868351519107818603515625,
+    "words": "we can do that",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 160.1200000000000045474735088646411895751953125,
+    "end_time": 160.93999999999999772626324556767940521240234375,
+    "words": "right",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 161.280000000000001136868377216160297393798828125,
+    "end_time": 162.06000000000000227373675443232059478759765625,
+    "words": "ok",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 162.080000000000012505552149377763271331787109375,
+    "end_time": 163.1200000000000045474735088646411895751953125,
+    "words": "so we can do that",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 165.419999999999987494447850622236728668212890625,
+    "end_time": 166.979999999999989768184605054557323455810546875,
+    "words": "that is a good idea",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 172.80000000000001136868377216160297393798828125,
+    "end_time": 175.93999999999999772626324556767940521240234375,
+    "words": "oh very nice very nice",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 177.460000000000007958078640513122081756591796875,
+    "end_time": 178.19999999999998863131622783839702606201171875,
+    "words": "ok",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 186.460000000000007958078640513122081756591796875,
+    "end_time": 187.039999999999992041921359486877918243408203125,
+    "words": "yeah",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 194.6200000000000045474735088646411895751953125,
+    "end_time": 195.659999999999996589394868351519107818603515625,
+    "words": "maybe",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 195.8799999999999954525264911353588104248046875,
+    "end_time": 198.30000000000001136868377216160297393798828125,
+    "words": "maybe",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 201.599999999999994315658113919198513031005859375,
+    "end_time": 206.5,
+    "words": "yeah maybe if you follow by bigfoot you know so it is why it is a it is a kind of",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 206.960000000000007958078640513122081756591796875,
+    "end_time": 209.979999999999989768184605054557323455810546875,
+    "words": "it will all turn into like a congo line you know",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 210,
+    "end_time": 211.06000000000000227373675443232059478759765625,
+    "words": "and i am not going to",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 211.18000000000000682121026329696178436279296875,
+    "end_time": 212.19999999999998863131622783839702606201171875,
+    "words": "i am not going to be there",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 224.19999999999998863131622783839702606201171875,
+    "end_time": 225.020000000000010231815394945442676544189453125,
+    "words": "yeah",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 225.039999999999992041921359486877918243408203125,
+    "end_time": 226.1200000000000045474735088646411895751953125,
+    "words": "i am not going to be there",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 241.3600000000000136424205265939235687255859375,
+    "end_time": 248.56000000000000227373675443232059478759765625,
+    "words": "a baby crying have a baby crying during the show would be a little bit disrupting actually",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 249.1399999999999863575794734060764312744140625,
+    "end_time": 249.759999999999990905052982270717620849609375,
+    "words": "yeah",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 253.8600000000000136424205265939235687255859375,
+    "end_time": 255.099999999999994315658113919198513031005859375,
+    "words": "a fake baby",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 256.1000000000000227373675443232059478759765625,
+    "end_time": 257.1399999999999863575794734060764312744140625,
+    "words": "what if",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 258.92000000000001591615728102624416351318359375,
+    "end_time": 259.43999999999999772626324556767940521240234375,
+    "words": "no",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 261.51999999999998181010596454143524169921875,
+    "end_time": 265.3799999999999954525264911353588104248046875,
+    "words": "we could use a midget or we can use a pair of midgets",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 265.48000000000001818989403545856475830078125,
+    "end_time": 270,
+    "words": "alright put a midget in somebody is in in bigfoot is back",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 270,
+    "end_time": 270.48000000000001818989403545856475830078125,
+    "words": "pack",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 270.5,
+    "end_time": 271.57999999999998408384271897375583648681640625,
+    "words": "ok",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 271.68000000000000682121026329696178436279296875,
+    "end_time": 273.3999999999999772626324556767940521240234375,
+    "words": "and that looks larger than like",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 273.42000000000001591615728102624416351318359375,
+    "end_time": 274.8600000000000136424205265939235687255859375,
+    "words": "like a",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 274.95999999999997953636921010911464691162109375,
+    "end_time": 275.720000000000027284841053187847137451171875,
+    "words": "that is right",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 275.759999999999990905052982270717620849609375,
+    "end_time": 276.5,
+    "words": "big",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 276.54000000000002046363078989088535308837890625,
+    "end_time": 277.240000000000009094947017729282379150390625,
+    "words": "big",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 277.259999999999990905052982270717620849609375,
+    "end_time": 282.31999999999999317878973670303821563720703125,
+    "words": "bigfoot is using our equipment you know that gives us a little bit of credibility",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 283.43999999999999772626324556767940521240234375,
+    "end_time": 284.31999999999999317878973670303821563720703125,
+    "words": "that is right",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 286.3600000000000136424205265939235687255859375,
+    "end_time": 288.57999999999998408384271897375583648681640625,
+    "words": "with a midget that is right",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 289.220000000000027284841053187847137451171875,
+    "end_time": 292.19999999999998863131622783839702606201171875,
+    "words": "right and bigfoot of course has the sticks",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 292.66000000000002501110429875552654266357421875,
+    "end_time": 293.1399999999999863575794734060764312744140625,
+    "words": "yeah",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 293.95999999999997953636921010911464691162109375,
+    "end_time": 294.69999999999998863131622783839702606201171875,
+    "words": "right",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 300.16000000000002501110429875552654266357421875,
+    "end_time": 302.279999999999972715158946812152862548828125,
+    "words": "so number one bigfoot",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 302.69999999999998863131622783839702606201171875,
+    "end_time": 304.259999999999990905052982270717620849609375,
+    "words": "number two midget",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 304.740000000000009094947017729282379150390625,
+    "end_time": 306.07999999999998408384271897375583648681640625,
+    "words": "number three",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 306.259999999999990905052982270717620849609375,
+    "end_time": 307.8799999999999954525264911353588104248046875,
+    "words": "a big backpack",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 313.6000000000000227373675443232059478759765625,
+    "end_time": 314.240000000000009094947017729282379150390625,
+    "words": "right",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 317.31999999999999317878973670303821563720703125,
+    "end_time": 321.6000000000000227373675443232059478759765625,
+    "words": "yeah monday or tuesday i think wednesday monday is still off",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 321.6200000000000045474735088646411895751953125,
+    "end_time": 324.51999999999998181010596454143524169921875,
+    "words": "i think so",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 327.8799999999999954525264911353588104248046875,
+    "end_time": 328.80000000000001136868377216160297393798828125,
+    "words": "right",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 329.1200000000000045474735088646411895751953125,
+    "end_time": 329.68000000000000682121026329696178436279296875,
+    "words": "yeah",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 330.93999999999999772626324556767940521240234375,
+    "end_time": 331.33999999999997498889570124447345733642578125,
+    "words": "yes",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 338.1200000000000045474735088646411895751953125,
+    "end_time": 339.06000000000000227373675443232059478759765625,
+    "words": "yes",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 345.98000000000001818989403545856475830078125,
+    "end_time": 346.54000000000002046363078989088535308837890625,
+    "words": "yes",
+    "speaker": "Ron"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 9.9199999999999999289457264239899814128875732421875,
+    "end_time": 12.339999999999999857891452847979962825775146484375,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 12.3599999999999994315658113919198513031005859375,
+    "end_time": 14.7599999999999997868371792719699442386627197265625,
+    "words": "it is always crazy like what if",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 14.7799999999999993605115378159098327159881591796875,
+    "end_time": 17.1400000000000005684341886080801486968994140625,
+    "words": "it was a little bit too much like",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 17.660000000000000142108547152020037174224853515625,
+    "end_time": 18.82000000000000028421709430404007434844970703125,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 19.339999999999999857891452847979962825775146484375,
+    "end_time": 20.1400000000000005684341886080801486968994140625,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 20.260000000000001563194018672220408916473388671875,
+    "end_time": 21.620000000000000994759830064140260219573974609375,
+    "words": "it is always crazy",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 23.10000000000000142108547152020037174224853515625,
+    "end_time": 24.46000000000000085265128291212022304534912109375,
+    "words": "i love that",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 28.280000000000001136868377216160297393798828125,
+    "end_time": 28.980000000000000426325641456060111522674560546875,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 29,
+    "end_time": 30,
+    "words": "it is always",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 30,
+    "end_time": 30.940000000000001278976924368180334568023681640625,
+    "words": "land",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 31.219999999999998863131622783839702606201171875,
+    "end_time": 32.43999999999999772626324556767940521240234375,
+    "words": "it is a good idea",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 37.17999999999999971578290569595992565155029296875,
+    "end_time": 38.11999999999999744204615126363933086395263671875,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 41.9200000000000017053025658242404460906982421875,
+    "end_time": 43.52000000000000312638803734444081783294677734375,
+    "words": "cross country",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 52.2000000000000028421709430404007434844970703125,
+    "end_time": 54.43999999999999772626324556767940521240234375,
+    "words": "i am considering dress up as big time as",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 54.47999999999999687361196265555918216705322265625,
+    "end_time": 57.25999999999999801048033987171947956085205078125,
+    "words": "as a big time bag and",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 60,
+    "end_time": 60.88000000000000255795384873636066913604736328125,
+    "words": "but we are going to",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 61.2999999999999971578290569595992565155029296875,
+    "end_time": 61.5799999999999982946974341757595539093017578125,
+    "words": "we",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 65.5400000000000062527760746888816356658935546875,
+    "end_time": 66.9599999999999937472239253111183643341064453125,
+    "words": "we are going to have to have a",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 67.280000000000001136868377216160297393798828125,
+    "end_time": 67.659999999999996589394868351519107818603515625,
+    "words": "a",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 67.68000000000000682121026329696178436279296875,
+    "end_time": 71.7399999999999948840923025272786617279052734375,
+    "words": "a",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 73.7600000000000051159076974727213382720947265625,
+    "end_time": 78.93999999999999772626324556767940521240234375,
+    "words": "oh",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 81.2000000000000028421709430404007434844970703125,
+    "end_time": 82.659999999999996589394868351519107818603515625,
+    "words": "oh ok yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 83.1200000000000045474735088646411895751953125,
+    "end_time": 84.780000000000001136868377216160297393798828125,
+    "words": "this is a good idea an idea",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 85.8799999999999954525264911353588104248046875,
+    "end_time": 89.43999999999999772626324556767940521240234375,
+    "words": "but they are like six people so they can have like seven",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 91.780000000000001136868377216160297393798828125,
+    "end_time": 93.159999999999996589394868351519107818603515625,
+    "words": "that is a",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 97.93999999999999772626324556767940521240234375,
+    "end_time": 98.56000000000000227373675443232059478759765625,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 103.719999999999998863131622783839702606201171875,
+    "end_time": 105.719999999999998863131622783839702606201171875,
+    "words": "who is going to dress up as bigfoot this year",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 106.1400000000000005684341886080801486968994140625,
+    "end_time": 109.31999999999999317878973670303821563720703125,
+    "words": "i did it last year i did it last year",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 109.599999999999994315658113919198513031005859375,
+    "end_time": 111.340000000000003410605131648480892181396484375,
+    "words": "maybe we will get a professional",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 113.400000000000005684341886080801486968994140625,
+    "end_time": 113.9599999999999937472239253111183643341064453125,
+    "words": "yes",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 118.06000000000000227373675443232059478759765625,
+    "end_time": 120,
+    "words": "it is going to be like a double in that",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 121.7600000000000051159076974727213382720947265625,
+    "end_time": 122.2399999999999948840923025272786617279052734375,
+    "words": "oh",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 122.3599999999999994315658113919198513031005859375,
+    "end_time": 122.56000000000000227373675443232059478759765625,
+    "words": "oh",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 122.599999999999994315658113919198513031005859375,
+    "end_time": 127.31999999999999317878973670303821563720703125,
+    "words": "ok",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 127.4599999999999937472239253111183643341064453125,
+    "end_time": 128.69999999999998863131622783839702606201171875,
+    "words": "oh",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 130.759999999999990905052982270717620849609375,
+    "end_time": 131.5,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 133.460000000000007958078640513122081756591796875,
+    "end_time": 134.43999999999999772626324556767940521240234375,
+    "words": "oh",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 135.259999999999990905052982270717620849609375,
+    "end_time": 140.900000000000005684341886080801486968994140625,
+    "words": "well then maybe we can give like freebies at the bars for like people who want to take a little freebies",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 144.3600000000000136424205265939235687255859375,
+    "end_time": 146.219999999999998863131622783839702606201171875,
+    "words": "well i do not know",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 147.960000000000007958078640513122081756591796875,
+    "end_time": 150,
+    "words": "no no no i do not know if that is very good for",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 150,
+    "end_time": 150.599999999999994315658113919198513031005859375,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 152.3799999999999954525264911353588104248046875,
+    "end_time": 152.8799999999999954525264911353588104248046875,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 159.419999999999987494447850622236728668212890625,
+    "end_time": 160.8799999999999954525264911353588104248046875,
+    "words": "trail like trail next",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 161.18000000000000682121026329696178436279296875,
+    "end_time": 161.479999999999989768184605054557323455810546875,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 165.080000000000012505552149377763271331787109375,
+    "end_time": 165.8799999999999954525264911353588104248046875,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 166.900000000000005684341886080801486968994140625,
+    "end_time": 167.900000000000005684341886080801486968994140625,
+    "words": "trail next",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 168.1200000000000045474735088646411895751953125,
+    "end_time": 169.580000000000012505552149377763271331787109375,
+    "words": "that is a great idea",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 170.580000000000012505552149377763271331787109375,
+    "end_time": 171.080000000000012505552149377763271331787109375,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 173.280000000000001136868377216160297393798828125,
+    "end_time": 176.240000000000009094947017729282379150390625,
+    "words": "oh great",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 176.280000000000001136868377216160297393798828125,
+    "end_time": 179.419999999999987494447850622236728668212890625,
+    "words": "oh that is a good idea yeah but that is a good idea yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 180.960000000000007958078640513122081756591796875,
+    "end_time": 183.19999999999998863131622783839702606201171875,
+    "words": "no i think it is a it is not a no",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 185.039999999999992041921359486877918243408203125,
+    "end_time": 186.960000000000007958078640513122081756591796875,
+    "words": "it is a my favorite one",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 187.900000000000005684341886080801486968994140625,
+    "end_time": 188.8799999999999954525264911353588104248046875,
+    "words": "my favorite one",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 196.6399999999999863575794734060764312744140625,
+    "end_time": 199.419999999999987494447850622236728668212890625,
+    "words": "what can be funny what can be funny",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 199.460000000000007958078640513122081756591796875,
+    "end_time": 200.039999999999992041921359486877918243408203125,
+    "words": "what can be",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 202.219999999999998863131622783839702606201171875,
+    "end_time": 203.93999999999999772626324556767940521240234375,
+    "words": "what can be funny",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 204.19999999999998863131622783839702606201171875,
+    "end_time": 205.6399999999999863575794734060764312744140625,
+    "words": "what can be funny",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 206.1399999999999863575794734060764312744140625,
+    "end_time": 208.159999999999996589394868351519107818603515625,
+    "words": "what can be funny what can be funny",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 209.3600000000000136424205265939235687255859375,
+    "end_time": 209.81999999999999317878973670303821563720703125,
+    "words": "oh",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 210,
+    "end_time": 212.960000000000007958078640513122081756591796875,
+    "words": "a puppy that is very corny very corny",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 230.3799999999999954525264911353588104248046875,
+    "end_time": 230.8600000000000136424205265939235687255859375,
+    "words": "ok",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 232.400000000000005684341886080801486968994140625,
+    "end_time": 232.900000000000005684341886080801486968994140625,
+    "words": "so",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 233.280000000000001136868377216160297393798828125,
+    "end_time": 234.080000000000012505552149377763271331787109375,
+    "words": "zallies",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 238.599999999999994315658113919198513031005859375,
+    "end_time": 239.919999999999987494447850622236728668212890625,
+    "words": "no",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 241,
+    "end_time": 244.68000000000000682121026329696178436279296875,
+    "words": "a first aid kit would be useful for that pet as well as dogs",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 246.240000000000009094947017729282379150390625,
+    "end_time": 248.159999999999996589394868351519107818603515625,
+    "words": "we put a dog in our bed",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 256.1000000000000227373675443232059478759765625,
+    "end_time": 259.81999999999999317878973670303821563720703125,
+    "words": "i do not know how to stay away from babies let us just stay away from them",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 260.92000000000001591615728102624416351318359375,
+    "end_time": 261.759999999999990905052982270717620849609375,
+    "words": "like a pet",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 261.80000000000001136868377216160297393798828125,
+    "end_time": 262.759999999999990905052982270717620849609375,
+    "words": "we can get them",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 263.33999999999997498889570124447345733642578125,
+    "end_time": 265.1000000000000227373675443232059478759765625,
+    "words": "like a pet",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 265.240000000000009094947017729282379150390625,
+    "end_time": 266.8999999999999772626324556767940521240234375,
+    "words": "a pet",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 267.81999999999999317878973670303821563720703125,
+    "end_time": 269.51999999999998181010596454143524169921875,
+    "words": "a pet is not a big deal",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 275.57999999999998408384271897375583648681640625,
+    "end_time": 277.3999999999999772626324556767940521240234375,
+    "words": "that is a good point",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 302.04000000000002046363078989088535308837890625,
+    "end_time": 303.69999999999998863131622783839702606201171875,
+    "words": "we have to get the",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 304.1399999999999863575794734060764312744140625,
+    "end_time": 305.80000000000001136868377216160297393798828125,
+    "words": "i think that is great",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 306,
+    "end_time": 308.3799999999999954525264911353588104248046875,
+    "words": "i think that is a really good idea",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 326.740000000000009094947017729282379150390625,
+    "end_time": 328.69999999999998863131622783839702606201171875,
+    "words": "yeah we will have to work on",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 329.54000000000002046363078989088535308837890625,
+    "end_time": 330,
+    "words": "i",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 330,
+    "end_time": 331.18000000000000682121026329696178436279296875,
+    "words": "but",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 334.42000000000001591615728102624416351318359375,
+    "end_time": 336.1000000000000227373675443232059478759765625,
+    "words": "it is not our birthday night",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 342.43999999999999772626324556767940521240234375,
+    "end_time": 342.80000000000001136868377216160297393798828125,
+    "words": "yeah",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 343.95999999999997953636921010911464691162109375,
+    "end_time": 346.1000000000000227373675443232059478759765625,
+    "words": "it is going to be such fun a couple of hours",
+    "speaker": "Beth"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 12.7200000000000006394884621840901672840118408203125,
+    "end_time": 13.2200000000000006394884621840901672840118408203125,
+    "words": "oh",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 13.3599999999999994315658113919198513031005859375,
+    "end_time": 14.5,
+    "words": "we need a logo",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 14.5600000000000004973799150320701301097869873046875,
+    "end_time": 17.739999999999998436805981327779591083526611328125,
+    "words": "oh i like that logo",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 17.940000000000001278976924368180334568023681640625,
+    "end_time": 19.300000000000000710542735760100185871124267578125,
+    "words": "yeah ok",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 24.160000000000000142108547152020037174224853515625,
+    "end_time": 28.0799999999999982946974341757595539093017578125,
+    "words": "so are we building something funny for the exam also so",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 28.17999999999999971578290569595992565155029296875,
+    "end_time": 29.8599999999999994315658113919198513031005859375,
+    "words": "we can have a little",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 29.89999999999999857891452847979962825775146484375,
+    "end_time": 30,
+    "words": "a",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 32.2000000000000028421709430404007434844970703125,
+    "end_time": 32.88000000000000255795384873636066913604736328125,
+    "words": "yes",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 37.43999999999999772626324556767940521240234375,
+    "end_time": 39.840000000000003410605131648480892181396484375,
+    "words": "yes",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 42.219999999999998863131622783839702606201171875,
+    "end_time": 44.5,
+    "words": "and then definitely we have",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 45.39999999999999857891452847979962825775146484375,
+    "end_time": 47.53999999999999914734871708787977695465087890625,
+    "words": "yeah we would have",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 47.88000000000000255795384873636066913604736328125,
+    "end_time": 52.67999999999999971578290569595992565155029296875,
+    "words": "i do not even want to go there but i have in my head now because i cannot even describe it",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 53.53999999999999914734871708787977695465087890625,
+    "end_time": 54.280000000000001136868377216160297393798828125,
+    "words": "i do not",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 54.2999999999999971578290569595992565155029296875,
+    "end_time": 55.4200000000000017053025658242404460906982421875,
+    "words": "i have to make up",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 56.0799999999999982946974341757595539093017578125,
+    "end_time": 57.3599999999999994315658113919198513031005859375,
+    "words": "i have to make up",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 64.7399999999999948840923025272786617279052734375,
+    "end_time": 65.780000000000001136868377216160297393798828125,
+    "words": "oh",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 65.840000000000003410605131648480892181396484375,
+    "end_time": 68.9800000000000039790393202565610408782958984375,
+    "words": "i do not know what that is",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 69.06000000000000227373675443232059478759765625,
+    "end_time": 70.780000000000001136868377216160297393798828125,
+    "words": "that was great",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 70.8599999999999994315658113919198513031005859375,
+    "end_time": 73,
+    "words": "i do not know how much we can enjoy it",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 74.3599999999999994315658113919198513031005859375,
+    "end_time": 76.4599999999999937472239253111183643341064453125,
+    "words": "oh",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 81.900000000000005684341886080801486968994140625,
+    "end_time": 83.3599999999999994315658113919198513031005859375,
+    "words": "oh yeah",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 87.7399999999999948840923025272786617279052734375,
+    "end_time": 90,
+    "words": "oh",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 90,
+    "end_time": 91.9599999999999937472239253111183643341064453125,
+    "words": "at the same place or what do you mean that",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 92,
+    "end_time": 93.099999999999994315658113919198513031005859375,
+    "words": "that is",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 100.159999999999996589394868351519107818603515625,
+    "end_time": 100.93999999999999772626324556767940521240234375,
+    "words": "yes",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 100.9599999999999937472239253111183643341064453125,
+    "end_time": 103.68000000000000682121026329696178436279296875,
+    "words": "yes yes yes it was very",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 105.68000000000000682121026329696178436279296875,
+    "end_time": 106.659999999999996589394868351519107818603515625,
+    "words": "yeah i",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 108.2000000000000028421709430404007434844970703125,
+    "end_time": 110.7399999999999948840923025272786617279052734375,
+    "words": "no no i do not know i do not know if it will be",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 111.400000000000005684341886080801486968994140625,
+    "end_time": 111.9800000000000039790393202565610408782958984375,
+    "words": "wow",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 113.840000000000003410605131648480892181396484375,
+    "end_time": 115.6400000000000005684341886080801486968994140625,
+    "words": "yeah i could do that",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 116.18000000000000682121026329696178436279296875,
+    "end_time": 116.900000000000005684341886080801486968994140625,
+    "words": "yes",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 117.4800000000000039790393202565610408782958984375,
+    "end_time": 119.219999999999998863131622783839702606201171875,
+    "words": "i could do that how about",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 120.0799999999999982946974341757595539093017578125,
+    "end_time": 120.9599999999999937472239253111183643341064453125,
+    "words": "yes",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 121.6400000000000005684341886080801486968994140625,
+    "end_time": 122.4599999999999937472239253111183643341064453125,
+    "words": "you know that",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 123.0400000000000062527760746888816356658935546875,
+    "end_time": 127.0199999999999960209606797434389591217041015625,
+    "words": "it is a",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 135.18000000000000682121026329696178436279296875,
+    "end_time": 135.780000000000001136868377216160297393798828125,
+    "words": "what",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 138.1399999999999863575794734060764312744140625,
+    "end_time": 138.580000000000012505552149377763271331787109375,
+    "words": "she",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 143.719999999999998863131622783839702606201171875,
+    "end_time": 148.919999999999987494447850622236728668212890625,
+    "words": "no",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 149.340000000000003410605131648480892181396484375,
+    "end_time": 149.81999999999999317878973670303821563720703125,
+    "words": "but",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 150,
+    "end_time": 150.719999999999998863131622783839702606201171875,
+    "words": "right",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 150.80000000000001136868377216160297393798828125,
+    "end_time": 151.460000000000007958078640513122081756591796875,
+    "words": "so",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 151.69999999999998863131622783839702606201171875,
+    "end_time": 153.080000000000012505552149377763271331787109375,
+    "words": "we want to make sure that",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 155.8600000000000136424205265939235687255859375,
+    "end_time": 156.56000000000000227373675443232059478759765625,
+    "words": "yes",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 158.1200000000000045474735088646411895751953125,
+    "end_time": 160,
+    "words": "yeah but yeah i",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 160.759999999999990905052982270717620849609375,
+    "end_time": 162.93999999999999772626324556767940521240234375,
+    "words": "yeah i agree yeah yeah yeah",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 165.099999999999994315658113919198513031005859375,
+    "end_time": 167.280000000000001136868377216160297393798828125,
+    "words": "yeah of course of course of course",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 169.6399999999999863575794734060764312744140625,
+    "end_time": 171.979999999999989768184605054557323455810546875,
+    "words": "how about somebody working in the family",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 172.219999999999998863131622783839702606201171875,
+    "end_time": 172.81999999999999317878973670303821563720703125,
+    "words": "how about",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 175.6200000000000045474735088646411895751953125,
+    "end_time": 176.18000000000000682121026329696178436279296875,
+    "words": "yeah",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 177.259999999999990905052982270717620849609375,
+    "end_time": 180,
+    "words": "yeah but that is a taken name now i am sorry we have",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 180,
+    "end_time": 182.06000000000000227373675443232059478759765625,
+    "words": "to you know we have to do",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 182.539999999999992041921359486877918243408203125,
+    "end_time": 183.219999999999998863131622783839702606201171875,
+    "words": "you know",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 183.93999999999999772626324556767940521240234375,
+    "end_time": 184.8600000000000136424205265939235687255859375,
+    "words": "oh ok",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 185.81999999999999317878973670303821563720703125,
+    "end_time": 193.8799999999999954525264911353588104248046875,
+    "words": "how about we find somebody and i am ready to do it really walk around with a backpack on my back and with a baby in there",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 194.039999999999992041921359486877918243408203125,
+    "end_time": 201.8600000000000136424205265939235687255859375,
+    "words": "just to see the pictures of the babies with the backpack would not that be funny would not that be funny look at me with a baby in my backpack",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 202.259999999999990905052982270717620849609375,
+    "end_time": 203.080000000000012505552149377763271331787109375,
+    "words": "it is",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 203.900000000000005684341886080801486968994140625,
+    "end_time": 206.900000000000005684341886080801486968994140625,
+    "words": "we are followed by people that should be very very funny",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 208.780000000000001136868377216160297393798828125,
+    "end_time": 209.219999999999998863131622783839702606201171875,
+    "words": "no",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 210.419999999999987494447850622236728668212890625,
+    "end_time": 212.6399999999999863575794734060764312744140625,
+    "words": "yeah so let us be serious",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 212.840000000000003410605131648480892181396484375,
+    "end_time": 216.759999999999990905052982270717620849609375,
+    "words": "let us be serious now and let us try to to be",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 216.840000000000003410605131648480892181396484375,
+    "end_time": 221.400000000000005684341886080801486968994140625,
+    "words": "for next our next meeting really know exactly where we are going with that and",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 221.43999999999999772626324556767940521240234375,
+    "end_time": 222.43999999999999772626324556767940521240234375,
+    "words": "let us not",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 222.539999999999992041921359486877918243408203125,
+    "end_time": 226.599999999999994315658113919198513031005859375,
+    "words": "laugh too much like we are doing now about that",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 226.840000000000003410605131648480892181396484375,
+    "end_time": 227.780000000000001136868377216160297393798828125,
+    "words": "yes",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 232.419999999999987494447850622236728668212890625,
+    "end_time": 233.240000000000009094947017729282379150390625,
+    "words": "so",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 240.5,
+    "end_time": 242.759999999999990905052982270717620849609375,
+    "words": "no i would say baby you know",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 244.259999999999990905052982270717620849609375,
+    "end_time": 245.1200000000000045474735088646411895751953125,
+    "words": "so",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 245.159999999999996589394868351519107818603515625,
+    "end_time": 246.099999999999994315658113919198513031005859375,
+    "words": "for the dogs",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 248.479999999999989768184605054557323455810546875,
+    "end_time": 253.740000000000009094947017729282379150390625,
+    "words": "no but you can take a fake baby no i am not talking about a real baby fake baby",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 253.840000000000003410605131648480892181396484375,
+    "end_time": 257.720000000000027284841053187847137451171875,
+    "words": "you know that they use in the movies and and and you know that",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 258.81999999999999317878973670303821563720703125,
+    "end_time": 260.779999999999972715158946812152862548828125,
+    "words": "no they look they look real",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 263.720000000000027284841053187847137451171875,
+    "end_time": 268.240000000000009094947017729282379150390625,
+    "words": "i am not i am not sure you are saying that i am not some sort of i am not",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 268.83999999999997498889570124447345733642578125,
+    "end_time": 269.6000000000000227373675443232059478759765625,
+    "words": "that is what i am",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 270.54000000000002046363078989088535308837890625,
+    "end_time": 272.48000000000001818989403545856475830078125,
+    "words": "that was my first thought",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 272.69999999999998863131622783839702606201171875,
+    "end_time": 273.93999999999999772626324556767940521240234375,
+    "words": "that was my first",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 273.95999999999997953636921010911464691162109375,
+    "end_time": 274.81999999999999317878973670303821563720703125,
+    "words": "that is",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 274.83999999999997498889570124447345733642578125,
+    "end_time": 278.779999999999972715158946812152862548828125,
+    "words": "that is my first thought i was thinking about that",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 278.8799999999999954525264911353588104248046875,
+    "end_time": 279.779999999999972715158946812152862548828125,
+    "words": "that is",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 279.83999999999997498889570124447345733642578125,
+    "end_time": 281,
+    "words": "yeah that is",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 281.43999999999999772626324556767940521240234375,
+    "end_time": 286.8799999999999954525264911353588104248046875,
+    "words": "i was thinking about that was my first thought because i am so tall and do not want my family to see me but",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 287.07999999999998408384271897375583648681640625,
+    "end_time": 289.81999999999999317878973670303821563720703125,
+    "words": "that is the thing",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 291.56000000000000227373675443232059478759765625,
+    "end_time": 293.259999999999990905052982270717620849609375,
+    "words": "yes",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 293.6000000000000227373675443232059478759765625,
+    "end_time": 295.19999999999998863131622783839702606201171875,
+    "words": "ok so",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 295.240000000000009094947017729282379150390625,
+    "end_time": 297.45999999999997953636921010911464691162109375,
+    "words": "we can make the list for next time",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 297.81999999999999317878973670303821563720703125,
+    "end_time": 299.66000000000002501110429875552654266357421875,
+    "words": "and let us say",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 300.16000000000002501110429875552654266357421875,
+    "end_time": 301.92000000000001591615728102624416351318359375,
+    "words": "well we need to see yeah",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 302.18000000000000682121026329696178436279296875,
+    "end_time": 302.8999999999999772626324556767940521240234375,
+    "words": "we need to see",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 304.6200000000000045474735088646411895751953125,
+    "end_time": 306.6200000000000045474735088646411895751953125,
+    "words": "so i think that is a great idea i think",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 307.6200000000000045474735088646411895751953125,
+    "end_time": 313.48000000000001818989403545856475830078125,
+    "words": "ok being the being the money person i will try to find out how much all of that will come you know",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 313.6399999999999863575794734060764312744140625,
+    "end_time": 316.8600000000000136424205265939235687255859375,
+    "words": "very much and by our next meeting what did you say monday",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 319.6399999999999863575794734060764312744140625,
+    "end_time": 325.3600000000000136424205265939235687255859375,
+    "words": "no it is not it is not it is not it is not if we already",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 325.45999999999997953636921010911464691162109375,
+    "end_time": 328.45999999999997953636921010911464691162109375,
+    "words": "friday night it is you know so we are going to find out how much",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 328.92000000000001591615728102624416351318359375,
+    "end_time": 329.759999999999990905052982270717620849609375,
+    "words": "no no",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 329.80000000000001136868377216160297393798828125,
+    "end_time": 330,
+    "words": "on",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 330,
+    "end_time": 330.259999999999990905052982270717620849609375,
+    "words": "good",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 330.6200000000000045474735088646411895751953125,
+    "end_time": 331.68000000000000682121026329696178436279296875,
+    "words": "be possible",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 332.19999999999998863131622783839702606201171875,
+    "end_time": 334.18000000000000682121026329696178436279296875,
+    "words": "but impossible is not",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 334.56000000000000227373675443232059478759765625,
+    "end_time": 335.51999999999998181010596454143524169921875,
+    "words": "it is not really",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 335.740000000000009094947017729282379150390625,
+    "end_time": 336.220000000000027284841053187847137451171875,
+    "words": "it is",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 337.3600000000000136424205265939235687255859375,
+    "end_time": 340.8600000000000136424205265939235687255859375,
+    "words": "it is not really possible yes yes so we are",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 341,
+    "end_time": 342.1200000000000045474735088646411895751953125,
+    "words": "we are ready to go",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 342.45999999999997953636921010911464691162109375,
+    "end_time": 344.68000000000000682121026329696178436279296875,
+    "words": "and good for us and",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 345.6399999999999863575794734060764312744140625,
+    "end_time": 347.1399999999999863575794734060764312744140625,
+    "words": "and we wanted to come up",
+    "speaker": "Rachel"
+  },
+  {
+    "session_id": "singlechannel/MTG_32085_studio_0",
+    "start_time": 351.51999999999998181010596454143524169921875,
+    "end_time": 352.8799999999999954525264911353588104248046875,
+    "words": "and look you know what",
+    "speaker": "Rachel"
+  }
+]

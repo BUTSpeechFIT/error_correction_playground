@@ -1,0 +1,2235 @@
+[
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 6.9000000000000003552713678800500929355621337890625,
+    "end_time": 8.1400000000000005684341886080801486968994140625,
+    "words": "oh",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 10.839999999999999857891452847979962825775146484375,
+    "end_time": 11.53999999999999914734871708787977695465087890625,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 16.53999999999999914734871708787977695465087890625,
+    "end_time": 17.120000000000000994759830064140260219573974609375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 18.4200000000000017053025658242404460906982421875,
+    "end_time": 19.660000000000000142108547152020037174224853515625,
+    "words": "oh",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 46.67999999999999971578290569595992565155029296875,
+    "end_time": 48.7999999999999971578290569595992565155029296875,
+    "words": "yes",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 69.3599999999999994315658113919198513031005859375,
+    "end_time": 71.4599999999999937472239253111183643341064453125,
+    "words": "we should have a different model",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 71.6400000000000005684341886080801486968994140625,
+    "end_time": 72.659999999999996589394868351519107818603515625,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 74.5799999999999982946974341757595539093017578125,
+    "end_time": 75.4200000000000017053025658242404460906982421875,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 96.840000000000003410605131648480892181396484375,
+    "end_time": 97.93999999999999772626324556767940521240234375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 97.9800000000000039790393202565610408782958984375,
+    "end_time": 99.93999999999999772626324556767940521240234375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 100.780000000000001136868377216160297393798828125,
+    "end_time": 102.31999999999999317878973670303821563720703125,
+    "words": "yeah ok",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 115.0799999999999982946974341757595539093017578125,
+    "end_time": 115.8799999999999954525264911353588104248046875,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 116.599999999999994315658113919198513031005859375,
+    "end_time": 117.43999999999999772626324556767940521240234375,
+    "words": "yes",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 127.6400000000000005684341886080801486968994140625,
+    "end_time": 129.5,
+    "words": "i think that we can also just",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 129.520000000000010231815394945442676544189453125,
+    "end_time": 132.31999999999999317878973670303821563720703125,
+    "words": "disponible to the employees to",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 145.080000000000012505552149377763271331787109375,
+    "end_time": 146.259999999999990905052982270717620849609375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 146.759999999999990905052982270717620849609375,
+    "end_time": 147.780000000000001136868377216160297393798828125,
+    "words": "i think that this",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 147.80000000000001136868377216160297393798828125,
+    "end_time": 150,
+    "words": "i think that we need to expand to a new",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 150,
+    "end_time": 154.400000000000005684341886080801486968994140625,
+    "words": "market by expanding ourselves to other counties and not only staying in our county",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 154.780000000000001136868377216160297393798828125,
+    "end_time": 157.80000000000001136868377216160297393798828125,
+    "words": "but our market and i also think that we can just",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 158,
+    "end_time": 160.580000000000012505552149377763271331787109375,
+    "words": "put ourselves out maybe instead of just doing",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 160.69999999999998863131622783839702606201171875,
+    "end_time": 166.06000000000000227373675443232059478759765625,
+    "words": "weekend markets we can do mid week or night markets we can have like for the holiday season we can have",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 166.1200000000000045474735088646411895751953125,
+    "end_time": 169.81999999999999317878973670303821563720703125,
+    "words": "seasonal events for like for decoration and",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 180,
+    "end_time": 181.400000000000005684341886080801486968994140625,
+    "words": "oh yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 182.1200000000000045474735088646411895751953125,
+    "end_time": 187.19999999999998863131622783839702606201171875,
+    "words": "yeah great i like that i think either you are important",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 193.039999999999992041921359486877918243408203125,
+    "end_time": 193.719999999999998863131622783839702606201171875,
+    "words": "yes",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 194.56000000000000227373675443232059478759765625,
+    "end_time": 195.840000000000003410605131648480892181396484375,
+    "words": "i think that just be",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 195.8799999999999954525264911353588104248046875,
+    "end_time": 202.81999999999999317878973670303821563720703125,
+    "words": "exactly i think that we can just be doing a lot of things for expanding and to brainstorm",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 203,
+    "end_time": 205.900000000000005684341886080801486968994140625,
+    "words": "maybe everyone could draw one more idea",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 211,
+    "end_time": 213.580000000000012505552149377763271331787109375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 216.68000000000000682121026329696178436279296875,
+    "end_time": 217.1200000000000045474735088646411895751953125,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 218.259999999999990905052982270717620849609375,
+    "end_time": 220.080000000000012505552149377763271331787109375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 221.460000000000007958078640513122081756591796875,
+    "end_time": 221.93999999999999772626324556767940521240234375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 222.919999999999987494447850622236728668212890625,
+    "end_time": 223.6200000000000045474735088646411895751953125,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 230.719999999999998863131622783839702606201171875,
+    "end_time": 231.479999999999989768184605054557323455810546875,
+    "words": "oh",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 231.520000000000010231815394945442676544189453125,
+    "end_time": 232.520000000000010231815394945442676544189453125,
+    "words": "oh",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 232.56000000000000227373675443232059478759765625,
+    "end_time": 234.099999999999994315658113919198513031005859375,
+    "words": "oh that is a cool start",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 234.56000000000000227373675443232059478759765625,
+    "end_time": 235.719999999999998863131622783839702606201171875,
+    "words": "oh",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 237.780000000000001136868377216160297393798828125,
+    "end_time": 238.919999999999987494447850622236728668212890625,
+    "words": "oh yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 238.960000000000007958078640513122081756591796875,
+    "end_time": 239.93999999999999772626324556767940521240234375,
+    "words": "oh yeah yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 240.520000000000010231815394945442676544189453125,
+    "end_time": 241.1200000000000045474735088646411895751953125,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 242.5,
+    "end_time": 243.259999999999990905052982270717620849609375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 243.56000000000000227373675443232059478759765625,
+    "end_time": 245.020000000000010231815394945442676544189453125,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 246.580000000000012505552149377763271331787109375,
+    "end_time": 248.3600000000000136424205265939235687255859375,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 249.219999999999998863131622783839702606201171875,
+    "end_time": 249.979999999999989768184605054557323455810546875,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 250.960000000000007958078640513122081756591796875,
+    "end_time": 270,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 272.5,
+    "end_time": 276.01999999999998181010596454143524169921875,
+    "words": "oh that is that is fantastic",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 276.720000000000027284841053187847137451171875,
+    "end_time": 277.1000000000000227373675443232059478759765625,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 279.04000000000002046363078989088535308837890625,
+    "end_time": 281.8799999999999954525264911353588104248046875,
+    "words": "very positive i love that",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 282.01999999999998181010596454143524169921875,
+    "end_time": 283.16000000000002501110429875552654266357421875,
+    "words": "yeah i think",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 291.04000000000002046363078989088535308837890625,
+    "end_time": 291.6399999999999863575794734060764312744140625,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 296.31999999999999317878973670303821563720703125,
+    "end_time": 299.720000000000027284841053187847137451171875,
+    "words": "i think that this yeah the next meeting will be",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 300,
+    "end_time": 305.220000000000027284841053187847137451171875,
+    "words": "see how we expanded and what everyone did and how we all started our new project and",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 305.31999999999999317878973670303821563720703125,
+    "end_time": 309.45999999999997953636921010911464691162109375,
+    "words": "and i think that it is going to be great and i am very excited about what is coming",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 315.54000000000002046363078989088535308837890625,
+    "end_time": 316.48000000000001818989403545856475830078125,
+    "words": "hot",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 316.66000000000002501110429875552654266357421875,
+    "end_time": 317.66000000000002501110429875552654266357421875,
+    "words": "hot",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 325.69999999999998863131622783839702606201171875,
+    "end_time": 328.54000000000002046363078989088535308837890625,
+    "words": "that is hot",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 328.56000000000000227373675443232059478759765625,
+    "end_time": 329.19999999999998863131622783839702606201171875,
+    "words": "that is",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 329.240000000000009094947017729282379150390625,
+    "end_time": 329.98000000000001818989403545856475830078125,
+    "words": "great",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 330,
+    "end_time": 330.720000000000027284841053187847137451171875,
+    "words": "area",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 331.19999999999998863131622783839702606201171875,
+    "end_time": 331.80000000000001136868377216160297393798828125,
+    "words": "oh",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 332.6200000000000045474735088646411895751953125,
+    "end_time": 333.42000000000001591615728102624416351318359375,
+    "words": "oh",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 333.43999999999999772626324556767940521240234375,
+    "end_time": 334.740000000000009094947017729282379150390625,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 338.43999999999999772626324556767940521240234375,
+    "end_time": 339.1000000000000227373675443232059478759765625,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 339.5,
+    "end_time": 340.1399999999999863575794734060764312744140625,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 342.3999999999999772626324556767940521240234375,
+    "end_time": 343.18000000000000682121026329696178436279296875,
+    "words": "yeah",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 343.19999999999998863131622783839702606201171875,
+    "end_time": 349.95999999999997953636921010911464691162109375,
+    "words": "that is not that absolutely great idea and i have been excited to see that it has been a great",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 350.1000000000000227373675443232059478759765625,
+    "end_time": 354.04000000000002046363078989088535308837890625,
+    "words": "way to build this fantastic modern apartment apartment",
+    "speaker": "Jenny"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 4.2599999999999997868371792719699442386627197265625,
+    "end_time": 6.05999999999999960920149533194489777088165283203125,
+    "words": "hi everyone",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 7.2400000000000002131628207280300557613372802734375,
+    "end_time": 10.0600000000000004973799150320701301097869873046875,
+    "words": "so we are finishing up for today",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 10.0800000000000000710542735760100185871124267578125,
+    "end_time": 11.3599999999999994315658113919198513031005859375,
+    "words": "in",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 11.4199999999999999289457264239899814128875732421875,
+    "end_time": 14.03999999999999914734871708787977695465087890625,
+    "words": "thinking about everything that we have",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 14.4399999999999995026200849679298698902130126953125,
+    "end_time": 18.60000000000000142108547152020037174224853515625,
+    "words": "done for this final slide we have done an amazing job everyone",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 19.339999999999999857891452847979962825775146484375,
+    "end_time": 20.3599999999999994315658113919198513031005859375,
+    "words": "and",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 20.39999999999999857891452847979962825775146484375,
+    "end_time": 23.719999999999998863131622783839702606201171875,
+    "words": "i just wanted to go through",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 24.780000000000001136868377216160297393798828125,
+    "end_time": 25.839999999999999857891452847979962825775146484375,
+    "words": "a few",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 25.8599999999999994315658113919198513031005859375,
+    "end_time": 26.879999999999999005240169935859739780426025390625,
+    "words": "things",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 26.89999999999999857891452847979962825775146484375,
+    "end_time": 27.96000000000000085265128291212022304534912109375,
+    "words": "that we",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 28.1400000000000005684341886080801486968994140625,
+    "end_time": 29.82000000000000028421709430404007434844970703125,
+    "words": "how we are going to the",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 30,
+    "end_time": 34.06000000000000227373675443232059478759765625,
+    "words": "market and just to",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 35.2000000000000028421709430404007434844970703125,
+    "end_time": 35.74000000000000198951966012828052043914794921875,
+    "words": "like",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 35.75999999999999801048033987171947956085205078125,
+    "end_time": 37.82000000000000028421709430404007434844970703125,
+    "words": "tie things up for our next",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 38.0799999999999982946974341757595539093017578125,
+    "end_time": 41.02000000000000312638803734444081783294677734375,
+    "words": "project that we are going to be going into so",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 42.2000000000000028421709430404007434844970703125,
+    "end_time": 47.46000000000000085265128291212022304534912109375,
+    "words": "we have gone in we have done our marketing we have done our website",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 47.47999999999999687361196265555918216705322265625,
+    "end_time": 48.38000000000000255795384873636066913604736328125,
+    "words": "and",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 48.47999999999999687361196265555918216705322265625,
+    "end_time": 52.82000000000000028421709430404007434844970703125,
+    "words": "i think that the next step is maybe even",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 52.9200000000000017053025658242404460906982421875,
+    "end_time": 55.93999999999999772626324556767940521240234375,
+    "words": "not a farmers market but maybe",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 55.96000000000000085265128291212022304534912109375,
+    "end_time": 57.56000000000000227373675443232059478759765625,
+    "words": "events",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 57.659999999999996589394868351519107818603515625,
+    "end_time": 60,
+    "words": "for holiday periods",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 60.280000000000001136868377216160297393798828125,
+    "end_time": 61.02000000000000312638803734444081783294677734375,
+    "words": "so",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 61.03999999999999914734871708787977695465087890625,
+    "end_time": 64.599999999999994315658113919198513031005859375,
+    "words": "and we can do the same type of thing for people",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 64.6200000000000045474735088646411895751953125,
+    "end_time": 66.5799999999999982946974341757595539093017578125,
+    "words": "and look into",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 66.68000000000000682121026329696178436279296875,
+    "end_time": 69.6200000000000045474735088646411895751953125,
+    "words": "the same type of foundation",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 69.68000000000000682121026329696178436279296875,
+    "end_time": 77.5199999999999960209606797434389591217041015625,
+    "words": "but a different model completely which will give us an edge where we could have two or three times more business with each client",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 77.6200000000000045474735088646411895751953125,
+    "end_time": 78.159999999999996589394868351519107818603515625,
+    "words": "so",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 78.2000000000000028421709430404007434844970703125,
+    "end_time": 79.9599999999999937472239253111183643341064453125,
+    "words": "they could hire us for more",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 80.340000000000003410605131648480892181396484375,
+    "end_time": 81.2999999999999971578290569595992565155029296875,
+    "words": "events",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 93.2000000000000028421709430404007434844970703125,
+    "end_time": 97.840000000000003410605131648480892181396484375,
+    "words": "yeah but selling events so it will be like for example",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 97.93999999999999772626324556767940521240234375,
+    "end_time": 102.0799999999999982946974341757595539093017578125,
+    "words": "holiday season we can do for every type of religion we could do",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 103.2000000000000028421709430404007434844970703125,
+    "end_time": 103.81999999999999317878973670303821563720703125,
+    "words": "like",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 103.840000000000003410605131648480892181396484375,
+    "end_time": 105.68000000000000682121026329696178436279296875,
+    "words": "anything that is happening there is like",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 106,
+    "end_time": 107.1400000000000005684341886080801486968994140625,
+    "words": "within each",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 107.7600000000000051159076974727213382720947265625,
+    "end_time": 111.099999999999994315658113919198513031005859375,
+    "words": "each year there is four or five holiday periods so",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 111.1200000000000045474735088646411895751953125,
+    "end_time": 112.599999999999994315658113919198513031005859375,
+    "words": "we could actually do",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 113.6400000000000005684341886080801486968994140625,
+    "end_time": 114.780000000000001136868377216160297393798828125,
+    "words": "a lot of",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 115.0400000000000062527760746888816356658935546875,
+    "end_time": 117.7000000000000028421709430404007434844970703125,
+    "words": "yeah we could just do really",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 117.719999999999998863131622783839702606201171875,
+    "end_time": 120,
+    "words": "like focus it it just gives us a lot",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 120,
+    "end_time": 120.7600000000000051159076974727213382720947265625,
+    "words": "lot more",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 121,
+    "end_time": 121.9599999999999937472239253111183643341064453125,
+    "words": "a",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 122,
+    "end_time": 123.0199999999999960209606797434389591217041015625,
+    "words": "scope",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 123.1200000000000045474735088646411895751953125,
+    "end_time": 128.340000000000003410605131648480892181396484375,
+    "words": "that we could work on we could hire more staff we have a really good template now",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 128.43999999999999772626324556767940521240234375,
+    "end_time": 131.740000000000009094947017729282379150390625,
+    "words": "and we can do that we have got a great team",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 135.1200000000000045474735088646411895751953125,
+    "end_time": 138.56000000000000227373675443232059478759765625,
+    "words": "exactly or we could even do a tourism things for particular",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 139.759999999999990905052982270717620849609375,
+    "end_time": 140.68000000000000682121026329696178436279296875,
+    "words": "markets",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 140.69999999999998863131622783839702606201171875,
+    "end_time": 144.900000000000005684341886080801486968994140625,
+    "words": "and we could just cause we have got a very good template now we have got good",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 145.159999999999996589394868351519107818603515625,
+    "end_time": 146.56000000000000227373675443232059478759765625,
+    "words": "people that we work with",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 154.280000000000001136868377216160297393798828125,
+    "end_time": 155.3600000000000136424205265939235687255859375,
+    "words": "hundred percent",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 168.020000000000010231815394945442676544189453125,
+    "end_time": 168.740000000000009094947017729282379150390625,
+    "words": "ok",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 175.460000000000007958078640513122081756591796875,
+    "end_time": 176.400000000000005684341886080801486968994140625,
+    "words": "ok",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 181.599999999999994315658113919198513031005859375,
+    "end_time": 182.56000000000000227373675443232059478759765625,
+    "words": "ok",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 183.18000000000000682121026329696178436279296875,
+    "end_time": 184,
+    "words": "ok",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 184.599999999999994315658113919198513031005859375,
+    "end_time": 185.8600000000000136424205265939235687255859375,
+    "words": "fantastic",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 193.1399999999999863575794734060764312744140625,
+    "end_time": 195.81999999999999317878973670303821563720703125,
+    "words": "yeah i think we are all on the same track",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 196.520000000000010231815394945442676544189453125,
+    "end_time": 198.56000000000000227373675443232059478759765625,
+    "words": "and i think that",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 228.69999999999998863131622783839702606201171875,
+    "end_time": 230,
+    "words": "hundred percent",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 230.039999999999992041921359486877918243408203125,
+    "end_time": 230.919999999999987494447850622236728668212890625,
+    "words": "oh",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 231.240000000000009094947017729282379150390625,
+    "end_time": 232.340000000000003410605131648480892181396484375,
+    "words": "oh yeah",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 233.099999999999994315658113919198513031005859375,
+    "end_time": 234.30000000000001136868377216160297393798828125,
+    "words": "more stuff",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 234.31999999999999317878973670303821563720703125,
+    "end_time": 235.6200000000000045474735088646411895751953125,
+    "words": "cause it will take",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 235.840000000000003410605131648480892181396484375,
+    "end_time": 238.81999999999999317878973670303821563720703125,
+    "words": "a bit of time to get them all on board and trained",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 239.099999999999994315658113919198513031005859375,
+    "end_time": 240,
+    "words": "and then we can",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 240,
+    "end_time": 241.580000000000012505552149377763271331787109375,
+    "words": "i think we have even got quite",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 241.599999999999994315658113919198513031005859375,
+    "end_time": 244.659999999999996589394868351519107818603515625,
+    "words": "client base waiting for us to do some more",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 244.8600000000000136424205265939235687255859375,
+    "end_time": 247.340000000000003410605131648480892181396484375,
+    "words": "i have had a lot of interest in",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 247.5,
+    "end_time": 251.159999999999996589394868351519107818603515625,
+    "words": "working with us and we can also have someone in charge of",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 251.259999999999990905052982270717620849609375,
+    "end_time": 252.039999999999992041921359486877918243408203125,
+    "words": "of",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 252.080000000000012505552149377763271331787109375,
+    "end_time": 256.720000000000027284841053187847137451171875,
+    "words": "contacting them with leads and and contacting clients as well as",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 256.8999999999999772626324556767940521240234375,
+    "end_time": 259.6399999999999863575794734060764312744140625,
+    "words": "the hiring so maybe you can do the hiring i can do the clients",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 265.48000000000001818989403545856475830078125,
+    "end_time": 266.98000000000001818989403545856475830078125,
+    "words": "yes",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 267,
+    "end_time": 268.57999999999998408384271897375583648681640625,
+    "words": "yes",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 269.83999999999997498889570124447345733642578125,
+    "end_time": 270,
+    "words": "i",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 270,
+    "end_time": 270.240000000000009094947017729282379150390625,
+    "words": "yeah",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 270.6399999999999863575794734060764312744140625,
+    "end_time": 271.06000000000000227373675443232059478759765625,
+    "words": "yeah",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 272.3999999999999772626324556767940521240234375,
+    "end_time": 274.66000000000002501110429875552654266357421875,
+    "words": "oh that is nice you like that",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 278.81999999999999317878973670303821563720703125,
+    "end_time": 279.30000000000001136868377216160297393798828125,
+    "words": "right",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 280.07999999999998408384271897375583648681640625,
+    "end_time": 280.740000000000009094947017729282379150390625,
+    "words": "ok",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 282.3799999999999954525264911353588104248046875,
+    "end_time": 284.1399999999999863575794734060764312744140625,
+    "words": "i think we also",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 285.43999999999999772626324556767940521240234375,
+    "end_time": 287.54000000000002046363078989088535308837890625,
+    "words": "been a great team and it has been",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 305.51999999999998181010596454143524169921875,
+    "end_time": 306.5,
+    "words": "yeah",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 309.5,
+    "end_time": 310.6200000000000045474735088646411895751953125,
+    "words": "that is interesting",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 322.31999999999999317878973670303821563720703125,
+    "end_time": 324.04000000000002046363078989088535308837890625,
+    "words": "you have done great",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 327.1200000000000045474735088646411895751953125,
+    "end_time": 328.8999999999999772626324556767940521240234375,
+    "words": "that is how it is turning out",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 328.92000000000001591615728102624416351318359375,
+    "end_time": 330,
+    "words": "that is how it turned out",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 330,
+    "end_time": 332.1000000000000227373675443232059478759765625,
+    "words": "sorret fantastic",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 335.01999999999998181010596454143524169921875,
+    "end_time": 337,
+    "words": "same place same place",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 338.759999999999990905052982270717620849609375,
+    "end_time": 339.8600000000000136424205265939235687255859375,
+    "words": "much of the same",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 340.279999999999972715158946812152862548828125,
+    "end_time": 341.18000000000000682121026329696178436279296875,
+    "words": "yes",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 342.740000000000009094947017729282379150390625,
+    "end_time": 345.81999999999999317878973670303821563720703125,
+    "words": "fantastic people have been great and",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 346.07999999999998408384271897375583648681640625,
+    "end_time": 347.92000000000001591615728102624416351318359375,
+    "words": "and it has been a pleasure",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 347.93999999999999772626324556767940521240234375,
+    "end_time": 349.1399999999999863575794734060764312744140625,
+    "words": "it has been a pleasure",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 354.57999999999998408384271897375583648681640625,
+    "end_time": 356.16000000000002501110429875552654266357421875,
+    "words": "me too",
+    "speaker": "Sally"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 5.7599999999999997868371792719699442386627197265625,
+    "end_time": 7.2599999999999997868371792719699442386627197265625,
+    "words": "oh",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 34.06000000000000227373675443232059478759765625,
+    "end_time": 34.89999999999999857891452847979962825775146484375,
+    "words": "right right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 36.659999999999996589394868351519107818603515625,
+    "end_time": 36.9200000000000017053025658242404460906982421875,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 37.719999999999998863131622783839702606201171875,
+    "end_time": 38.2999999999999971578290569595992565155029296875,
+    "words": "yep yep",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 40.0799999999999982946974341757595539093017578125,
+    "end_time": 40.9200000000000017053025658242404460906982421875,
+    "words": "yes",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 44,
+    "end_time": 44.47999999999999687361196265555918216705322265625,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 47.2000000000000028421709430404007434844970703125,
+    "end_time": 47.60000000000000142108547152020037174224853515625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 49.840000000000003410605131648480892181396484375,
+    "end_time": 50.52000000000000312638803734444081783294677734375,
+    "words": "ok",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 54.60000000000000142108547152020037174224853515625,
+    "end_time": 54.82000000000000028421709430404007434844970703125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 58.52000000000000312638803734444081783294677734375,
+    "end_time": 59.219999999999998863131622783839702606201171875,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 60.06000000000000227373675443232059478759765625,
+    "end_time": 60.75999999999999801048033987171947956085205078125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 62.5,
+    "end_time": 63,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 63.93999999999999772626324556767940521240234375,
+    "end_time": 64.31999999999999317878973670303821563720703125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 67.2399999999999948840923025272786617279052734375,
+    "end_time": 67.6200000000000045474735088646411895751953125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 67.8799999999999954525264911353588104248046875,
+    "end_time": 68.3599999999999994315658113919198513031005859375,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 69.0400000000000062527760746888816356658935546875,
+    "end_time": 69.4800000000000039790393202565610408782958984375,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 70.31999999999999317878973670303821563720703125,
+    "end_time": 70.68000000000000682121026329696178436279296875,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 71.840000000000003410605131648480892181396484375,
+    "end_time": 72.400000000000005684341886080801486968994140625,
+    "words": "so",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 74.2600000000000051159076974727213382720947265625,
+    "end_time": 74.5199999999999960209606797434389591217041015625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 75.5,
+    "end_time": 75.7999999999999971578290569595992565155029296875,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 77.5400000000000062527760746888816356658935546875,
+    "end_time": 78.1400000000000005684341886080801486968994140625,
+    "words": "ok",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 80.1400000000000005684341886080801486968994140625,
+    "end_time": 80.6200000000000045474735088646411895751953125,
+    "words": "so",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 80.8799999999999954525264911353588104248046875,
+    "end_time": 84.159999999999996589394868351519107818603515625,
+    "words": "so salih what i am hearing from you and correct me if i am wrong please",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 84.31999999999999317878973670303821563720703125,
+    "end_time": 88.9200000000000017053025658242404460906982421875,
+    "words": "but essentially what you want us to do is transition from g being just a",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 89.0199999999999960209606797434389591217041015625,
+    "end_time": 90,
+    "words": "farmers market that",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 90,
+    "end_time": 93.400000000000005684341886080801486968994140625,
+    "words": "kind of area it is just just planning events in general",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 97.6400000000000005684341886080801486968994140625,
+    "end_time": 98.5799999999999982946974341757595539093017578125,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 105.8599999999999994315658113919198513031005859375,
+    "end_time": 106.2600000000000051159076974727213382720947265625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 107.340000000000003410605131648480892181396484375,
+    "end_time": 108.56000000000000227373675443232059478759765625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 109.18000000000000682121026329696178436279296875,
+    "end_time": 109.6200000000000045474735088646411895751953125,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 111.6400000000000005684341886080801486968994140625,
+    "end_time": 112.1400000000000005684341886080801486968994140625,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 118.6200000000000045474735088646411895751953125,
+    "end_time": 119.0799999999999982946974341757595539093017578125,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 124.5400000000000062527760746888816356658935546875,
+    "end_time": 124.93999999999999772626324556767940521240234375,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 133.43999999999999772626324556767940521240234375,
+    "end_time": 134.3799999999999954525264911353588104248046875,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 134.759999999999990905052982270717620849609375,
+    "end_time": 135.18000000000000682121026329696178436279296875,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 135.719999999999998863131622783839702606201171875,
+    "end_time": 136,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 139.81999999999999317878973670303821563720703125,
+    "end_time": 140.69999999999998863131622783839702606201171875,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 140.719999999999998863131622783839702606201171875,
+    "end_time": 141.340000000000003410605131648480892181396484375,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 143.3600000000000136424205265939235687255859375,
+    "end_time": 143.80000000000001136868377216160297393798828125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 146.18000000000000682121026329696178436279296875,
+    "end_time": 146.719999999999998863131622783839702606201171875,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 149.31999999999999317878973670303821563720703125,
+    "end_time": 149.659999999999996589394868351519107818603515625,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 154.1200000000000045474735088646411895751953125,
+    "end_time": 154.580000000000012505552149377763271331787109375,
+    "words": "yes",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 155.3600000000000136424205265939235687255859375,
+    "end_time": 156.1200000000000045474735088646411895751953125,
+    "words": "yes",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 157.979999999999989768184605054557323455810546875,
+    "end_time": 158.80000000000001136868377216160297393798828125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 159.68000000000000682121026329696178436279296875,
+    "end_time": 160.18000000000000682121026329696178436279296875,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 161.93999999999999772626324556767940521240234375,
+    "end_time": 163.900000000000005684341886080801486968994140625,
+    "words": "right right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 163.919999999999987494447850622236728668212890625,
+    "end_time": 164.80000000000001136868377216160297393798828125,
+    "words": "right right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 165.840000000000003410605131648480892181396484375,
+    "end_time": 166.340000000000003410605131648480892181396484375,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 167.280000000000001136868377216160297393798828125,
+    "end_time": 169.43999999999999772626324556767940521240234375,
+    "words": "the region is a different region",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 169.69999999999998863131622783839702606201171875,
+    "end_time": 170.219999999999998863131622783839702606201171875,
+    "words": "i",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 170.479999999999989768184605054557323455810546875,
+    "end_time": 172.919999999999987494447850622236728668212890625,
+    "words": "i agree very much so with",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 173.020000000000010231815394945442676544189453125,
+    "end_time": 176.740000000000009094947017729282379150390625,
+    "words": "all of you really i think like i feel like we are in a great place",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 176.759999999999990905052982270717620849609375,
+    "end_time": 180,
+    "words": "to start expanding we also have a lot of lend over capital",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 180.3600000000000136424205265939235687255859375,
+    "end_time": 181.919999999999987494447850622236728668212890625,
+    "words": "oh yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 182.740000000000009094947017729282379150390625,
+    "end_time": 184.18000000000000682121026329696178436279296875,
+    "words": "so i am all for it",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 185.18000000000000682121026329696178436279296875,
+    "end_time": 185.900000000000005684341886080801486968994140625,
+    "words": "i say that is the",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 191.599999999999994315658113919198513031005859375,
+    "end_time": 192.400000000000005684341886080801486968994140625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 193.099999999999994315658113919198513031005859375,
+    "end_time": 193.3600000000000136424205265939235687255859375,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 197.18000000000000682121026329696178436279296875,
+    "end_time": 198.06000000000000227373675443232059478759765625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 201.1200000000000045474735088646411895751953125,
+    "end_time": 202,
+    "words": "but",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 202.6200000000000045474735088646411895751953125,
+    "end_time": 203.479999999999989768184605054557323455810546875,
+    "words": "but so",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 205.520000000000010231815394945442676544189453125,
+    "end_time": 206.5,
+    "words": "i feel like",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 207.1399999999999863575794734060764312744140625,
+    "end_time": 209,
+    "words": "no that is just a best decision",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 211.3799999999999954525264911353588104248046875,
+    "end_time": 211.81999999999999317878973670303821563720703125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 213.580000000000012505552149377763271331787109375,
+    "end_time": 214.06000000000000227373675443232059478759765625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 216.039999999999992041921359486877918243408203125,
+    "end_time": 216.599999999999994315658113919198513031005859375,
+    "words": "i would love",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 218.1399999999999863575794734060764312744140625,
+    "end_time": 223.580000000000012505552149377763271331787109375,
+    "words": "i would love for us to well i will personally do my next meeting if we are deciding we are going for it right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 223.599999999999994315658113919198513031005859375,
+    "end_time": 228.280000000000001136868377216160297393798828125,
+    "words": "i have a lot of very capable candidates which have been looking to get into the industry",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 228.659999999999996589394868351519107818603515625,
+    "end_time": 234.479999999999989768184605054557323455810546875,
+    "words": "and would love to take charge of this aspect so if you do not mind i can organize interviews with them",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 234.8600000000000136424205265939235687255859375,
+    "end_time": 236.219999999999998863131622783839702606201171875,
+    "words": "next week",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 237.6399999999999863575794734060764312744140625,
+    "end_time": 238.31999999999999317878973670303821563720703125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 240.719999999999998863131622783839702606201171875,
+    "end_time": 241.6200000000000045474735088646411895751953125,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 241.6399999999999863575794734060764312744140625,
+    "end_time": 242.340000000000003410605131648480892181396484375,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 243.919999999999987494447850622236728668212890625,
+    "end_time": 244.919999999999987494447850622236728668212890625,
+    "words": "absolutely",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 247.039999999999992041921359486877918243408203125,
+    "end_time": 248.06000000000000227373675443232059478759765625,
+    "words": "absolutely",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 248.080000000000012505552149377763271331787109375,
+    "end_time": 249.159999999999996589394868351519107818603515625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 249.719999999999998863131622783839702606201171875,
+    "end_time": 250.18000000000000682121026329696178436279296875,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 250.8799999999999954525264911353588104248046875,
+    "end_time": 251.43999999999999772626324556767940521240234375,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 251.740000000000009094947017729282379150390625,
+    "end_time": 252.099999999999994315658113919198513031005859375,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 254.159999999999996589394868351519107818603515625,
+    "end_time": 254.599999999999994315658113919198513031005859375,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 255.599999999999994315658113919198513031005859375,
+    "end_time": 256.1399999999999863575794734060764312744140625,
+    "words": "so",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 256.51999999999998181010596454143524169921875,
+    "end_time": 257.16000000000002501110429875552654266357421875,
+    "words": "so",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 258.66000000000002501110429875552654266357421875,
+    "end_time": 259.04000000000002046363078989088535308837890625,
+    "words": "so",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 259.259999999999990905052982270717620849609375,
+    "end_time": 267.3799999999999954525264911353588104248046875,
+    "words": "so what do you say we got because i i want you guys you are guys page as well let us organize interviews i will organize interviews with you guys and get stuff",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 267.6399999999999863575794734060764312744140625,
+    "end_time": 270,
+    "words": "let us organize for wednesday and thursday",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 270,
+    "end_time": 272.66000000000002501110429875552654266357421875,
+    "words": "sleep i i have at least five candidates",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 273.06000000000000227373675443232059478759765625,
+    "end_time": 274.6000000000000227373675443232059478759765625,
+    "words": "i would like to ask them to",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 275.42000000000001591615728102624416351318359375,
+    "end_time": 280.81999999999999317878973670303821563720703125,
+    "words": "let us talk with them and let us see if we can maybe make something out of it i feel very positive about this issue",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 281.5,
+    "end_time": 286.1200000000000045474735088646411895751953125,
+    "words": "i think it is real time i think it is real time to say definitely elevate our company to the next level",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 287.42000000000001591615728102624416351318359375,
+    "end_time": 287.759999999999990905052982270717620849609375,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 290.83999999999997498889570124447345733642578125,
+    "end_time": 292.6000000000000227373675443232059478759765625,
+    "words": "yeah right right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 292.66000000000002501110429875552654266357421875,
+    "end_time": 293.07999999999998408384271897375583648681640625,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 294.56000000000000227373675443232059478759765625,
+    "end_time": 294.83999999999997498889570124447345733642578125,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 295.6000000000000227373675443232059478759765625,
+    "end_time": 296.51999999999998181010596454143524169921875,
+    "words": "i very much",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 298.04000000000002046363078989088535308837890625,
+    "end_time": 299.01999999999998181010596454143524169921875,
+    "words": "right this group",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 299.51999999999998181010596454143524169921875,
+    "end_time": 300,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 301.759999999999990905052982270717620849609375,
+    "end_time": 302.5,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 303.04000000000002046363078989088535308837890625,
+    "end_time": 303.720000000000027284841053187847137451171875,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 304.6200000000000045474735088646411895751953125,
+    "end_time": 305.31999999999999317878973670303821563720703125,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 308.48000000000001818989403545856475830078125,
+    "end_time": 308.93999999999999772626324556767940521240234375,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 313.779999999999972715158946812152862548828125,
+    "end_time": 320.18000000000000682121026329696178436279296875,
+    "words": "we should not look at expanding into our company and once we make this play with expanding into events",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 320.279999999999972715158946812152862548828125,
+    "end_time": 322.740000000000009094947017729282379150390625,
+    "words": "that market would naturally become a bit more",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 325.68000000000000682121026329696178436279296875,
+    "end_time": 328.54000000000002046363078989088535308837890625,
+    "words": "that is that is exactly right that is exactly right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 328.56000000000000227373675443232059478759765625,
+    "end_time": 329.83999999999997498889570124447345733642578125,
+    "words": "that is exactly right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 330.1000000000000227373675443232059478759765625,
+    "end_time": 330.80000000000001136868377216160297393798828125,
+    "words": "yes",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 331.45999999999997953636921010911464691162109375,
+    "end_time": 332.19999999999998863131622783839702606201171875,
+    "words": "so",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 332.3999999999999772626324556767940521240234375,
+    "end_time": 334.5,
+    "words": "again let us reconvene next week",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 335.259999999999990905052982270717620849609375,
+    "end_time": 336.04000000000002046363078989088535308837890625,
+    "words": "sally",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 336.33999999999997498889570124447345733642578125,
+    "end_time": 340.279999999999972715158946812152862548828125,
+    "words": "yeah let us go over a more concrete idea to make this happen a bit",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 341.1000000000000227373675443232059478759765625,
+    "end_time": 342.5,
+    "words": "and let us make this happen",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 343.19999999999998863131622783839702606201171875,
+    "end_time": 343.83999999999997498889570124447345733642578125,
+    "words": "let us make",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 345.56000000000000227373675443232059478759765625,
+    "end_time": 346.1000000000000227373675443232059478759765625,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 346.1200000000000045474735088646411895751953125,
+    "end_time": 347,
+    "words": "right",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 349.259999999999990905052982270717620849609375,
+    "end_time": 349.80000000000001136868377216160297393798828125,
+    "words": "yeah",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 350.19999999999998863131622783839702606201171875,
+    "end_time": 350.81999999999999317878973670303821563720703125,
+    "words": "and",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 351.3999999999999772626324556767940521240234375,
+    "end_time": 356.06000000000000227373675443232059478759765625,
+    "words": "again on a personal note i am rave proud of everyone in the company for the work we have done",
+    "speaker": "Brad"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 6.70000000000000017763568394002504646778106689453125,
+    "end_time": 8.0600000000000004973799150320701301097869873046875,
+    "words": "oh",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 40.61999999999999744204615126363933086395263671875,
+    "end_time": 41.17999999999999971578290569595992565155029296875,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 47.32000000000000028421709430404007434844970703125,
+    "end_time": 48.32000000000000028421709430404007434844970703125,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 59.74000000000000198951966012828052043914794921875,
+    "end_time": 60,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 60,
+    "end_time": 60.8599999999999994315658113919198513031005859375,
+    "words": "right",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 60.88000000000000255795384873636066913604736328125,
+    "end_time": 61.52000000000000312638803734444081783294677734375,
+    "words": "absolutely",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 69.4599999999999937472239253111183643341064453125,
+    "end_time": 70.8599999999999994315658113919198513031005859375,
+    "words": "it is a big preference yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 96.9599999999999937472239253111183643341064453125,
+    "end_time": 98.1400000000000005684341886080801486968994140625,
+    "words": "yeah yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 101.7999999999999971578290569595992565155029296875,
+    "end_time": 102.159999999999996589394868351519107818603515625,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 111.06000000000000227373675443232059478759765625,
+    "end_time": 115.31999999999999317878973670303821563720703125,
+    "words": "yeah and then like in the springtime you have like the easter easter holidays",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 124.43999999999999772626324556767940521240234375,
+    "end_time": 125.0799999999999982946974341757595539093017578125,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 131.3600000000000136424205265939235687255859375,
+    "end_time": 135.259999999999990905052982270717620849609375,
+    "words": "come summer time we have a a beach event advertising our beaches",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 146.599999999999994315658113919198513031005859375,
+    "end_time": 147.06000000000000227373675443232059478759765625,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 154.080000000000012505552149377763271331787109375,
+    "end_time": 154.93999999999999772626324556767940521240234375,
+    "words": "yeah sure",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 155.099999999999994315658113919198513031005859375,
+    "end_time": 155.960000000000007958078640513122081756591796875,
+    "words": "absolutely",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 170.1200000000000045474735088646411895751953125,
+    "end_time": 170.460000000000007958078640513122081756591796875,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 180.81999999999999317878973670303821563720703125,
+    "end_time": 181.919999999999987494447850622236728668212890625,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 184.81999999999999317878973670303821563720703125,
+    "end_time": 185.159999999999996589394868351519107818603515625,
+    "words": "that is a",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 186.80000000000001136868377216160297393798828125,
+    "end_time": 190.840000000000003410605131648480892181396484375,
+    "words": "maybe we can invest some of this capital into new projects going into different directions",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 206.68000000000000682121026329696178436279296875,
+    "end_time": 210,
+    "words": "yeah i think next next winter perhaps we can start a a little",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 210,
+    "end_time": 210.1399999999999863575794734060764312744140625,
+    "words": "the",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 210.159999999999996589394868351519107818603515625,
+    "end_time": 211.19999999999998863131622783839702606201171875,
+    "words": "the skiing tournament",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 211.69999999999998863131622783839702606201171875,
+    "end_time": 215.240000000000009094947017729282379150390625,
+    "words": "we have the hills it is it is not not the rocky mountain hills but it is",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 216.06000000000000227373675443232059478759765625,
+    "end_time": 218.30000000000001136868377216160297393798828125,
+    "words": "small hills and we have small competition",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 231.68000000000000682121026329696178436279296875,
+    "end_time": 233.43999999999999772626324556767940521240234375,
+    "words": "ok yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 244.960000000000007958078640513122081756591796875,
+    "end_time": 245.43999999999999772626324556767940521240234375,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 254.919999999999987494447850622236728668212890625,
+    "end_time": 255.520000000000010231815394945442676544189453125,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 265.54000000000002046363078989088535308837890625,
+    "end_time": 267.83999999999997498889570124447345733642578125,
+    "words": "that is good news",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 270,
+    "end_time": 270.3999999999999772626324556767940521240234375,
+    "words": "that is",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 273.279999999999972715158946812152862548828125,
+    "end_time": 274.07999999999998408384271897375583648681640625,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 274.240000000000009094947017729282379150390625,
+    "end_time": 275.43999999999999772626324556767940521240234375,
+    "words": "that is good that is good",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 279.83999999999997498889570124447345733642578125,
+    "end_time": 282.06000000000000227373675443232059478759765625,
+    "words": "i think i think we do some real magic here",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 286.279999999999972715158946812152862548828125,
+    "end_time": 287.33999999999997498889570124447345733642578125,
+    "words": "both the city",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 287.54000000000002046363078989088535308837890625,
+    "end_time": 290.19999999999998863131622783839702606201171875,
+    "words": "and the open stature that people want to come here",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 290.48000000000001818989403545856475830078125,
+    "end_time": 292.1200000000000045474735088646411895751953125,
+    "words": "but more than just vacation",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 292.16000000000002501110429875552654266357421875,
+    "end_time": 295.56000000000000227373675443232059478759765625,
+    "words": "maybe they will want to move here make a permanent residence here in our city",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 306.3799999999999954525264911353588104248046875,
+    "end_time": 306.81999999999999317878973670303821563720703125,
+    "words": "yeah",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 322.19999999999998863131622783839702606201171875,
+    "end_time": 326.31999999999999317878973670303821563720703125,
+    "words": "we are going to let people be coming we do not have to go searching for them they will be coming looking for us",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 332.1000000000000227373675443232059478759765625,
+    "end_time": 332.8799999999999954525264911353588104248046875,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 339.33999999999997498889570124447345733642578125,
+    "end_time": 340.51999999999998181010596454143524169921875,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 341.18000000000000682121026329696178436279296875,
+    "end_time": 341.69999999999998863131622783839702606201171875,
+    "words": "ok",
+    "speaker": "Donald"
+  },
+  {
+    "session_id": "singlechannel/MTG_32346_panacast_0",
+    "start_time": 343.19999999999998863131622783839702606201171875,
+    "end_time": 344.04000000000002046363078989088535308837890625,
+    "words": "ok",
+    "speaker": "Donald"
+  }
+]

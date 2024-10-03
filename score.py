@@ -51,6 +51,11 @@ def main(predictions_dir: str, save_visualizations: bool, compute_orc: bool, col
             if result is not None:
                 wer_dfs.append(result)
 
+    # for i, session_id in enumerate(tqdm.tqdm(session_ids, desc='Scoring sessions')):
+    #     result = process_session(session_id, predictions_dir, save_visualizations, compute_orc, collar, text_norm)
+    #     if result is not None:
+    #         wer_dfs.append(result)
+
     if wer_dfs:  # Only concatenate if we have results
         all_session_wer_df = pd.concat(wer_dfs, ignore_index=True)
         all_session_wer_df.to_csv(predictions_dir + '/all_session_wer.csv')

@@ -50,6 +50,48 @@ def assign_streams(tcorc_hyp_seglst):
     tcorc_hyp_seglst = meeteval.io.SegLST([seg for stream in per_stream_list for seg in stream]).sorted(key='start_time')
     return tcorc_hyp_seglst
 
+
+
+def find_first_non_overlapping_segment_streams(per_speaker_groups, per_speaker_vad_masks):
+    for speaker_id, speaker_seglst in per_speaker_groups.items():
+        for other_speaker_id, other_speaker_seglst in per_speaker_groups.items():
+            if speaker_id != other_speaker_id:
+                vad_mask_merged = per_speaker_vad_masks[speaker_id] & per_speaker_vad_masks[other_speaker_id]
+                if not vad_mask_merged.any():
+                    return  (speaker_id, other_speaker_id)
+
+def merge_streams(tcorc_hyp_seglst):
+    per_speaker_groups = tcorc_hyp_seglst.groupby(key='speaker')
+
+    # create per speaker vad masks
+    per_speaker_vad_masks = {}
+    for speaker_id, speaker_seglst in per_speaker_groups.items():
+        per_speaker_vad_masks[speaker_id] = create_vad_mask(speaker_seglst, time_step=0.1)
+
+    longest_mask = max(len(mask) for mask in per_speaker_vad_masks.values())
+
+    # pad all masks to the same length
+    for speaker_id, mask in per_speaker_vad_masks.items():
+        per_speaker_vad_masks[speaker_id] = np.pad(mask, (0, longest_mask - len(mask)))
+
+    # recursively merge all pairs of speakers that have no overlapping vad masks
+    while True:
+        res = find_first_non_overlapping_segment_streams(per_speaker_groups, per_speaker_vad_masks)
+        if res is None:
+            break
+        speaker_id, other_speaker_id = res
+        per_speaker_groups[speaker_id] = per_speaker_groups[speaker_id] + per_speaker_groups[other_speaker_id]
+        per_speaker_vad_masks[speaker_id] = per_speaker_vad_masks[speaker_id] | per_speaker_vad_masks[other_speaker_id]
+        del per_speaker_groups[other_speaker_id]
+        del per_speaker_vad_masks[other_speaker_id]
+
+    tcorc_hyp_seglst = meeteval.io.SegLST([seg for speaker_seglst in per_speaker_groups.values() for seg in speaker_seglst]).sorted(key='start_time')
+
+    return tcorc_hyp_seglst
+
+
+
+
 def normalize_segment(segment: SegLstSegment, tn):
     words = segment["words"]
     words = tn(words)

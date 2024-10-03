@@ -13,7 +13,7 @@ from meeteval.wer.wer.orc import OrcErrorRate
 from src.logging_def import get_logger
 from src.text_norm_whisper_like import get_txt_norm
 from src.utils import normalize_segment, create_vad_mask, find_group_splits, map_utterance_to_split, \
-    agregate_errors_across_groups
+    agregate_errors_across_groups, merge_streams
 
 _LOG = get_logger('wer')
 
@@ -41,8 +41,32 @@ def calc_session_tcp_wer(ref, hyp, collar):
             .rename(columns={'tcp_error_rate': 'tcp_wer'}))
 
 
-def calc_session_tcorc_wer(ref, hyp, collar):
-    res = meeteval.wer.tcorcwer(reference=ref, hypothesis=hyp, collar=collar)
+def calc_session_tcorc_wer(ref, hyp, group_duration, time_step, collar):
+    ref_vad = create_vad_mask(ref.segments, time_step=time_step)
+    hyp_vad = create_vad_mask(hyp.segments, time_step=time_step)
+    max_vad_len = max(len(ref_vad), len(hyp_vad))
+    ref_vad = np.pad(ref_vad, (0, max_vad_len - len(ref_vad)))
+    hyp_vad = np.pad(hyp_vad, (0, max_vad_len - len(hyp_vad)))
+    vad = ref_vad | hyp_vad
+    splits = np.array(find_group_splits(vad, group_duration=group_duration, time_step=time_step)) * time_step
+
+    ref_grouped = ref.map(
+        lambda seg: SegLstSegment(
+            **{"session_id": seg['session_id'] + str(map_utterance_to_split(float(seg['start_time']), splits)),
+               "start_time": seg['start_time'],
+               "end_time": seg['end_time'],
+               "speaker": seg['speaker'],
+               "words": seg['words']}))
+    hyp_grouped = hyp.map(
+        lambda seg: SegLstSegment(
+            **{"session_id": seg['session_id'] + str(map_utterance_to_split(float(seg['start_time']), splits)),
+               "start_time": seg['start_time'],
+               "end_time": seg['end_time'],
+               "speaker": seg['speaker'],
+               "words": seg['words']}))
+
+    res = meeteval.wer.tcorcwer(reference=ref_grouped, hypothesis=hyp_grouped, collar=collar)
+    res = agregate_errors_across_groups(res, ref.segments[0]['session_id'])
 
     res_df = pd.DataFrame.from_dict(res, orient='index').reset_index(names='session_id')
     keys = ['error_rate', 'errors', 'length', 'insertions', 'deletions', 'substitutions', 'assignment']
@@ -155,10 +179,11 @@ def calc_wer(out_dir: Path,
                       tcp_wer_res.drop(columns='session_id'),
                       ]
     if compute_orc:
-        orc_wer_res = calc_session_approx_orc_wer(ref_seglst, tcp_hyp_seglst)
-        wers_to_concat.append(orc_wer_res.drop(columns='session_id'))
-
-        tcorc_wer_res = calc_session_tcorc_wer(ref_seglst, tcorc_hyp_seglst, collar)
+        # orc_wer_res = calc_session_approx_orc_wer(ref_seglst, tcp_hyp_seglst)
+        # wers_to_concat.append(orc_wer_res.drop(columns='session_id'))
+        tcorc_hyp_seglst = merge_streams(tcorc_hyp_seglst)
+        tcorc_wer_res = calc_session_tcorc_wer(ref_seglst, tcorc_hyp_seglst, group_duration=30, time_step=0.1,
+                                               collar=collar)
         wers_to_concat.append(tcorc_wer_res.drop(columns='session_id'))
     wer_df = pd.concat(wers_to_concat, axis=1)
 
@@ -170,7 +195,7 @@ def calc_wer(out_dir: Path,
     _LOG.debug('Done calculating WER')
 
     if compute_orc:
-        _LOG.debug(f"\n{wer_df[['session_id', 'cp_wer', 'tcp_wer', 'tcorc_wer', 'orc_wer']]}")
+        _LOG.debug(f"\n{wer_df[['session_id', 'cp_wer', 'tcp_wer', 'tcorc_wer']]}")
     else:
         _LOG.debug(f"\n{wer_df[['session_id', 'cp_wer', 'tcp_wer']]}")
 

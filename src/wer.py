@@ -146,8 +146,6 @@ def calc_wer(out_dir: Path,
     ref_file_path.parent.mkdir(parents=True, exist_ok=True)
     ref_seglst.dump(ref_file_path)
 
-    tcorc_wer_res = calc_session_tcorc_wer(ref_seglst, tcorc_hyp_seglst, collar)
-
     cp_wer_res = calc_session_cp_wer(ref_seglst, tcp_hyp_seglst)
     tcp_wer_res = calc_session_tcp_wer(ref_seglst, tcp_hyp_seglst, collar)
     if save_visualizations:
@@ -155,12 +153,13 @@ def calc_wer(out_dir: Path,
 
     wers_to_concat = [cp_wer_res,
                       tcp_wer_res.drop(columns='session_id'),
-                      tcorc_wer_res.drop(columns='session_id')
                       ]
     if compute_orc:
         orc_wer_res = calc_session_approx_orc_wer(ref_seglst, tcp_hyp_seglst)
         wers_to_concat.append(orc_wer_res.drop(columns='session_id'))
 
+        tcorc_wer_res = calc_session_tcorc_wer(ref_seglst, tcorc_hyp_seglst, collar)
+        wers_to_concat.append(tcorc_wer_res.drop(columns='session_id'))
     wer_df = pd.concat(wers_to_concat, axis=1)
 
     if isinstance(tcp_wer_hyp_json, str) or isinstance(tcp_wer_hyp_json, Path):
@@ -169,6 +168,10 @@ def calc_wer(out_dir: Path,
         wer_df['tcorc_wer_hyp_json'] = tcorc_wer_hyp_json
 
     _LOG.debug('Done calculating WER')
-    _LOG.debug(f"\n{wer_df[['session_id', 'cp_wer', 'tcorc_wer', 'tcp_wer']]}")
+
+    if compute_orc:
+        _LOG.debug(f"\n{wer_df[['session_id', 'cp_wer', 'tcp_wer', 'tcorc_wer', 'orc_wer']]}")
+    else:
+        _LOG.debug(f"\n{wer_df[['session_id', 'cp_wer', 'tcp_wer']]}")
 
     return wer_df

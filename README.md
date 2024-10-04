@@ -6,14 +6,22 @@
 This is a playground repository to evaluate performance of different models on task of error correction
 on [NOTSOFAR-1](https://www.chimechallenge.org/current/task2/index) dataset (more datasets are coming soon).
 
-Predictions in `NSF_predictions_GT_diar` were made using the GT diarization and BUT/JHU CHIME-8 NOTSOFAR-1 system. Please
-see references for details.
+## Leaderboard
+These tables represent the performance of different models on this task. If you want to add your model to the leaderboard, please create a pull request.
 
-## Dataset
+1. **NOTSOFAR-1**
+    1. eval-small (GT_diar_v1)
+       
+        | Model | CP-WER | TCP-WER | TC-ORC-WER | Link |
+        |-------|--------|---------|------------|------|
+        | [BUT/JHU CHIME-8 NOTSOFAR-1](https://arxiv.org/abs/2409.09543) | 0.2045 | 0.2086 | 0.2029 | TBD |
 
-The predictions are located in `predictions_GT_diar` folder. Each session has corresponding directory that
-contains `ref.json` and `(tc_orc_wer|tcp_wer)_hyp.json` files. Each `.json` file contains list of segments in the
-following format:
+
+## Datasets
+
+The model predictions for each condtion are stored in `datasets` folder. 
+Each session has corresponding directory that contains `ref.json` and `(tc_orc_wer|tcp_wer)_hyp.json` files. 
+Each `.json` file contains list of segments in the following format:
 
 ```json
   {
@@ -72,7 +80,9 @@ For each session visualization of the errors will be saved in `viz.htlm` file.
   year      = {2024},
   booktitle = {Interspeech 2024},
 }
+```
 
+```bibtex
 @misc{polok2024targetspeakerasrwhisper,
       title={Target Speaker ASR with Whisper}, 
       author={Alexander Polok and Dominik Klement and Matthew Wiesner and Sanjeev Khudanpur and Jan Černocký and Lukáš Burget},

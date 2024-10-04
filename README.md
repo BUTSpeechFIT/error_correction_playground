@@ -1,6 +1,7 @@
-# Error Correction Playground for multi-talker meeting transcription
+# Error Correction Playground for Multi-Talker Meeting Transcription
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 
 This is a playground repository to evaluate performance of different models on task of error correction
 on [NOTSOFAR-1](https://www.chimechallenge.org/current/task2/index) dataset (more datasets are coming soon).
@@ -26,35 +27,18 @@ following format:
 
 ## Environment Setup
 
-1. Clone the repository
-2. Cd into the repository
+1. Clone and cd into the repository
 
 ```bash
+git clone git@github.com:BUTSpeechFIT/error_correction_playground.git
 cd error_correction_playground
 ```
-
-3. (Optional) Install virtualenv
-
+2. Create a virtual environment and install the requirements
 ```bash
-pip install virtualenv
-```
-
-4. Create a virtual environment
-
-```bash
-virtualenv venv
-```
-
-5. Activate the virtual environment
-
-```bash
-source venv/bin/activate
-```
-
-6. Install the requirements
-
-```bash
-pip install -r requirements.txt
+# pip install virtualenv #(Optional) Install virtualenv
+virtualenv venv #Create a virtual environment
+source venv/bin/activate # Activate the virtual environment
+pip install -r requirements.txt # Install the requirements
 ```
 
 ## Usage
@@ -70,7 +54,7 @@ NEW_PREDICTIONS_DIR= # Path to the new predictions directory
 python score.py --predictions_dir $NEW_PREDICTIONS_DIR  --save_visualizations --collar 5 --text_norm chime8
 ```
 
-You shall see the following output:
+You should see the following output:
 
 ```bash
 2024-10-04 14:55:22,864 [INFO] [wer]  Metrics: {'cp_wer': 0.20452815011744505, 'cp_errors': 315.63125, 'cp_length': 1473.375, 'cp_insertions': 93.96875, 'cp_deletions': 51.79375, 'cp_substitutions': 169.86875, 'cp_missed_speaker': 0.0, 'cp_falarm_speaker': 0.0, 'cp_scored_speaker': 4.7375, 'tcp_wer': 0.20863855882623233, 'tcp_errors': 322.075, 'tcp_length': 1473.375, 'tcp_insertions': 99.88125, 'tcp_deletions': 57.70625, 'tcp_substitutions': 164.4875, 'tcp_missed_speaker': 0.0, 'tcp_falarm_speaker': 0.0, 'tcp_scored_speaker': 4.7375, 'tcorc_wer': 0.20292262780954032, 'tcorc_errors': 312.3625, 'tcorc_length': 1473.375, 'tcorc_insertions': 92.4875, 'tcorc_deletions': 51.9625, 'tcorc_substitutions': 167.9125}
@@ -88,9 +72,7 @@ For each session visualization of the errors will be saved in `viz.htlm` file.
   year      = {2024},
   booktitle = {Interspeech 2024},
 }
-```
 
-```bibtex
 @misc{polok2024targetspeakerasrwhisper,
       title={Target Speaker ASR with Whisper}, 
       author={Alexander Polok and Dominik Klement and Matthew Wiesner and Sanjeev Khudanpur and Jan Černocký and Lukáš Burget},
